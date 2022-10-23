@@ -34,9 +34,9 @@ publishDir = "docs"
   fontFamilySecondary = "SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', 'Courier New', monospace"
 
 [Params.logo]
-  image = "img/placeholder.png" # Logo image. Path relative to "static"
+  image = "zfjLogo.png" # Logo image. Path relative to "static"
   title = "The Zombie Fridge Journal" # Logo title, otherwise will use site title
-  subtitle = "Currently a demo." # Logo subtitle
+  subtitle = "Definitely Not The Government." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
