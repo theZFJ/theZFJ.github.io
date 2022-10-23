@@ -56,6 +56,6 @@ publishDir = "docs"
 [Params.widgets.social]
   # Enable parts of social widget
   twitter = ""
-  instagram = "@zfjnews"
-  email = "example@example.com"
+  instagram = "zfjnews"
+  email = ""
 
