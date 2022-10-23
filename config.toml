@@ -36,7 +36,7 @@ publishDir = "docs"
 [Params.logo]
   image = "zfjLogo.png" # Logo image. Path relative to "static"
   title = "The Zombie Fridge Journal" # Logo title, otherwise will use site title
-  subtitle = "Short Deadlines Force Us To Avoid Procrastination" # Logo subtitle
+  subtitle = "Short Deadlines Force Us To Avoid Procrastination." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
@@ -55,13 +55,7 @@ publishDir = "docs"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  facebook = "username"
-  twitter = "username"
-  instagram = "username"
-  linkedin = "username"
-  telegram = "username"
-  github = "username"
-  gitlab = "username"
-  bitbucket = "username"
+  twitter = ""
+  instagram = "@zfjnews"
   email = "example@example.com"
 
