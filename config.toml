@@ -59,3 +59,64 @@ publishDir = "docs"
   instagram = "zfjnews"
   email = ""
 
+[menu] # Menu bar under header 
+[[menu.main]]
+  identifier = 'About ZFJ'
+  name = 'About ZFJ'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/about/'
+  weight = -120
+[[menu.main]]
+  identifier = 'Domestic Affairs'
+  name = 'Domestic Affairs'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/domestic-affairs/'
+  weight = -110
+[[menu.main]]
+  identifier = 'Foreign Affairs'
+  name = 'Foreign Affairs'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/foreign-affairs/'
+  weight = -100
+[[menu.main]]
+  identifier = 'Business'
+  name = 'Business'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/business/'
+  weight = -90
+[[menu.main]]
+  identifier = 'Entertainment'
+  name = 'Entertainment'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/entertainment/'
+  weight = -80
+[[menu.main]]
+  identifier = 'Medicine'
+  name = 'Medicine'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/medicine/'
+  weight = -70
+[[menu.main]]
+  identifier = 'Science and Technology'
+  name = 'Science and Technology'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/science-and-technology/'
+  weight = -60
+[[menu.main]]
+  identifier = 'Sports'
+  name = 'Sports'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/sports/'
+  weight = -50
+[[menu.main]]
+  identifier = 'Opinion'
+  name = 'Opinion'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/opinion/'
+  weight = -40
+[[menu.main]]
+  identifier = 'Parallel Universe Reports'
+  name = 'Parallel Universe Reports'
+  pre = "<i class='fa fa-heart'></i>"
+  url = '/categories/parallel-universe-reports/'
+  weight = -30
