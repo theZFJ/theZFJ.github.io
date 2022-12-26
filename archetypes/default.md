@@ -7,4 +7,11 @@ categories:
   - ""
 tags:
   - ""
+
+authors:
+  - ""
+editors:
+  - ""
+photographers:
+  - ""
 ---
