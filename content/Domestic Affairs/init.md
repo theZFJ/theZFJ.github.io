@@ -7,6 +7,13 @@ categories:
   - "Domestic Affairs"
 tags:
   - "government"
+
+staff:
+  - Alvin Wu
+editor:
+  - ""
+photographer:
+  - ""
 ---
 
 The ZFJ has created an init page for testing, sources say. 
