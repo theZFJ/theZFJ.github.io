@@ -6,9 +6,11 @@
 			{{- with .Params.lead }}
 			<p class="post__lead">{{ . }}</p>
 			{{- end }}
+            
             {{ with partial "author-link.html" . -}}
 			<div class="author-link byline">{{ . }}</div>
 			{{- end }}
+            
 			{{ with partial "post_meta.html" . -}}
 			<div class="post__meta meta">{{ . }}</div>
 			{{- end }}

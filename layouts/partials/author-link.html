@@ -1,3 +1,5 @@
+By 
+
 {{- range $index, $element := .Params.authors }}
   {{ if gt $index 0 }} & {{ end }}
   <a href="/staff/{{ urlize . }}">{{ . }}</a>
