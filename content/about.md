@@ -13,6 +13,6 @@ The Parallel Universe Reports Bureau is the satirical arm. Because all of its re
 
 ## Staff 
 
-**Editor-in-Chief** Alvin Wu
+**Editor-in-Chief** [Alvin Wu]({{< ref "/staff/alvin-wu" >}})
 
 **Copy Editor** Sushanth Balaraman

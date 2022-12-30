@@ -9,9 +9,9 @@ tags:
   - ""
 
 authors:
-  - ""
+  - 
 editors:
-  - ""
+  - 
 photographers:
-  - ""
+  - 
 ---

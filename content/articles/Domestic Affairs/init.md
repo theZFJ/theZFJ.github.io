@@ -8,12 +8,13 @@ categories:
 tags:
   - "government"
 
-staff:
+authors:
   - Alvin Wu
+  - The ZFJ
 editor:
-  - ""
+  - 
 photographer:
-  - ""
+  - 
 ---
 
 The ZFJ has created an init page for testing, sources say. 
