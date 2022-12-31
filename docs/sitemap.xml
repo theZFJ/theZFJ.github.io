@@ -2,8 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theZFJ.github.io/about/</loc>
-    <lastmod>2022-10-24T12:57:30-04:00</lastmod>
+    <loc>https://theZFJ.github.io/staff/alvin-wu/</loc>
+    <lastmod>2022-09-16T23:45:29-04:00</lastmod>
   </url><url>
     <loc>https://theZFJ.github.io/categories/</loc>
     <lastmod>2022-09-16T23:45:29-04:00</lastmod>
@@ -20,16 +20,17 @@
     <loc>https://theZFJ.github.io/domestic-affairs/init/</loc>
     <lastmod>2022-09-16T23:45:29-04:00</lastmod>
   </url><url>
+    <loc>https://theZFJ.github.io/staff/</loc>
+    <lastmod>2022-09-16T23:45:29-04:00</lastmod>
+  </url><url>
     <loc>https://theZFJ.github.io/tags/</loc>
     <lastmod>2022-09-16T23:45:29-04:00</lastmod>
   </url><url>
     <loc>https://theZFJ.github.io/</loc>
     <lastmod>2022-09-16T23:45:29-04:00</lastmod>
   </url><url>
-    <loc>https://theZFJ.github.io/staff/alvin-wu/</loc>
-  </url><url>
     <loc>https://theZFJ.github.io/staff/the-zfj/</loc>
   </url><url>
-    <loc>https://theZFJ.github.io/staff/</loc>
+    <loc>https://theZFJ.github.io/about/</loc>
   </url>
 </urlset>

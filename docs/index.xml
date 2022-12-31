@@ -8,19 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 16 Sep 2022 23:45:29 -0400</lastBuildDate><atom:link href="https://theZFJ.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://theZFJ.github.io/about/</link>
-      <pubDate>Mon, 24 Oct 2022 12:57:30 -0400</pubDate>
-      
-      <guid>https://theZFJ.github.io/about/</guid>
-      <description>The Zombie Fridge Journal is an amateur newspaper based in the New York City metropolitan area.
-It covers news in various areas, such as government affairs or science.
-The Parallel Universe Reports Bureau is the satirical arm. Because all of its reports hold true in some other universe.
-Staff Editor-in-Chief Alvin Wu
-Copy Editor Sushanth Balaraman</description>
-    </item>
-    
-    <item>
       <title>Init</title>
       <link>https://theZFJ.github.io/domestic-affairs/init/</link>
       <pubDate>Fri, 16 Sep 2022 23:45:29 -0400</pubDate>
@@ -29,6 +16,19 @@ Copy Editor Sushanth Balaraman</description>
       <description>The ZFJ has created an init page for testing, sources say.
 It seems to want to customize this website.
 At this time, there is no planned completion date for the website customization project.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://theZFJ.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theZFJ.github.io/about/</guid>
+      <description>The Zombie Fridge Journal is an amateur newspaper based in the New York City metropolitan area.
+It covers news in various areas, such as government affairs or science.
+The Parallel Universe Reports Bureau is the satirical arm. Because all of its reports hold true in some other universe.
+Staff Editor-in-Chief Alvin Wu
+Copy Editor Sushanth Balaraman</description>
     </item>
     
   </channel>
