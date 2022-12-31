@@ -1,3 +1,6 @@
 [submodule "themes/mainroad"]
 	path = themes/mainroad
 	url = https://github.com/vimux/mainroad.git
+[submodule "content/Domestic-Affairs/2023"]
+	path = content/Domestic-Affairs/2023
+	url = https://github.com/theZFJ/2023-domestic-affairs
