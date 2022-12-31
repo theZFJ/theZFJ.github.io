@@ -11,8 +11,7 @@ tags:
 
 authors:
   - 
-editors:
-  - 
-photographers:
-  - 
+# all contributors
+staff:
+  -
 ---

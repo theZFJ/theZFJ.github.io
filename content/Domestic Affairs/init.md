@@ -12,10 +12,9 @@ tags:
 authors:
   - Alvin Wu
   - The ZFJ
-editor:
-  - 
-photographer:
-  - 
+# all contributors
+staff:
+  - Alvin Wu
 ---
 
 The ZFJ has created an init page for testing, sources say. 
