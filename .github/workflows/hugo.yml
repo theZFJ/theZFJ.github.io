@@ -49,7 +49,7 @@ jobs:
          ssh-private-key: |
            ${{ secrets.DOMESTIC_AFFAIRS_2023 }}
            
-      - run: git submodule update --init --recursive --remote
+      - run: git submodule update --init --recursive 
           
       - name: Setup Pages
         id: pages
