@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Medicines on The Zombie Fridge Journal</title>
+    <link>https://theZFJ.github.io/medicine/</link>
+    <description>Recent content in Medicines on The Zombie Fridge Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 23:20:08 -0500</lastBuildDate><atom:link href="https://theZFJ.github.io/medicine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>MedTest</title>
+      <link>https://theZFJ.github.io/medicine/2023/medicinetest/</link>
+      <pubDate>Mon, 20 Feb 2023 23:20:08 -0500</pubDate>
+      
+      <guid>https://theZFJ.github.io/medicine/2023/medicinetest/</guid>
+      <description>medicine test</description>
+    </item>
+    
+  </channel>
+</rss>

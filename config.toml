@@ -14,7 +14,7 @@ publishDir = "docs"
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   mainSections = ["Africa", "Americas", "Asia-Pacific", "Business", "Domestic-Affairs", "Entertainment",
-    "Europe", "Medicine", "Middle-East", "Russia", "Science-and-Technology", 
+    "Europe", "Foreign-Affairs", "Medicine", "Middle-East", "Russia", "Science-and-Technology", 
     "Sports"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "15:04 2006-01-02" # Change the format of dates
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts

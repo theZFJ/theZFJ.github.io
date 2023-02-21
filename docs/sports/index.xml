@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports on The Zombie Fridge Journal</title>
+    <link>https://theZFJ.github.io/sports/</link>
+    <description>Recent content in Sports on The Zombie Fridge Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 23:20:08 -0500</lastBuildDate><atom:link href="https://theZFJ.github.io/sports/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SportsTest</title>
+      <link>https://theZFJ.github.io/sports/2023/sportstest/</link>
+      <pubDate>Mon, 20 Feb 2023 23:20:08 -0500</pubDate>
+      
+      <guid>https://theZFJ.github.io/sports/2023/sportstest/</guid>
+      <description>sports test</description>
+    </item>
+    
+  </channel>
+</rss>

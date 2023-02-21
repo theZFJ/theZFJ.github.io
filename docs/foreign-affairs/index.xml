@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Foreign-Affairs on The Zombie Fridge Journal</title>
+    <link>https://theZFJ.github.io/foreign-affairs/</link>
+    <description>Recent content in Foreign-Affairs on The Zombie Fridge Journal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Feb 2023 23:20:08 -0500</lastBuildDate><atom:link href="https://theZFJ.github.io/foreign-affairs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AfricaTest</title>
+      <link>https://theZFJ.github.io/foreign-affairs/africa/2023/africatest/</link>
+      <pubDate>Mon, 20 Feb 2023 23:20:08 -0500</pubDate>
+      
+      <guid>https://theZFJ.github.io/foreign-affairs/africa/2023/africatest/</guid>
+      <description>Africa test</description>
+    </item>
+    
+    <item>
+      <title>AmericasTest</title>
+      <link>https://theZFJ.github.io/foreign-affairs/americas/2023/americastest/</link>
+      <pubDate>Mon, 20 Feb 2023 23:20:08 -0500</pubDate>
+      
+      <guid>https://theZFJ.github.io/foreign-affairs/americas/2023/americastest/</guid>
+      <description>americas test</description>
+    </item>
+    
+    <item>
+      <title>Asia-PacificTest</title>
+      <link>https://theZFJ.github.io/foreign-affairs/asia-pacific/2023/asiatest/</link>
+      <pubDate>Mon, 20 Feb 2023 23:20:08 -0500</pubDate>
+      
+      <guid>https://theZFJ.github.io/foreign-affairs/asia-pacific/2023/asiatest/</guid>
+      <description>Asia test</description>
+    </item>
+    
+    <item>
+      <title>EuTest</title>
+      <link>https://theZFJ.github.io/foreign-affairs/europe/2023/europetest/</link>
+      <pubDate>Mon, 20 Feb 2023 23:20:08 -0500</pubDate>
+      
+      <guid>https://theZFJ.github.io/foreign-affairs/europe/2023/europetest/</guid>
+      <description>Eu test</description>
+    </item>
+    
+    <item>
+      <title>MidEastTEst</title>
+      <link>https://theZFJ.github.io/foreign-affairs/middle-east/2023/mideasttest/</link>
+      <pubDate>Mon, 20 Feb 2023 23:20:08 -0500</pubDate>
+      
+      <guid>https://theZFJ.github.io/foreign-affairs/middle-east/2023/mideasttest/</guid>
+      <description>Mid East test</description>
+    </item>
+    
+    <item>
+      <title>RuTest</title>
+      <link>https://theZFJ.github.io/foreign-affairs/russia/2023/rutest/</link>
+      <pubDate>Mon, 20 Feb 2023 23:20:08 -0500</pubDate>
+      
+      <guid>https://theZFJ.github.io/foreign-affairs/russia/2023/rutest/</guid>
+      <description>Ru test</description>
+    </item>
+    
+  </channel>
+</rss>
