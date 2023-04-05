@@ -61,8 +61,8 @@ publishDir = "docs"
 
 [menu] # Menu bar under header 
 [[menu.main]]
-  identifier = 'About ZFJ'
-  name = 'About ZFJ'
+  identifier = 'About'
+  name = 'About'
   pre = "<i class='fa fa-heart'></i>"
   url = '/about/'
   weight = -120
