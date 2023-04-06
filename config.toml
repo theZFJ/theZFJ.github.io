@@ -13,6 +13,7 @@ publishDir = "docs"
   authorbox = false # Show authorbox at bottom of pages if true
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
+  opengraph = true
   mainSections = ["Africa", "Americas", "Asia-Pacific", "Business", "Domestic-Affairs", "Entertainment",
     "Europe", "Foreign-Affairs", "Medicine", "Middle-East", "Russia", "Science-and-Technology", 
     "Sports"] # Specify section pages to show on home page and the "Recent articles" widget
