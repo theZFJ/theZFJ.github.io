@@ -61,6 +61,7 @@ jobs:
            ${{ secrets.RUSSIA_2023 }}
            ${{ secrets.SCIENCE_AND_TECHNOLOGY_2023 }}
            ${{ secrets.SPORTS_2023 }}
+           ${{ secrets.IMAGES_2023 }}
            
       - run: git submodule update --init --recursive 
           
