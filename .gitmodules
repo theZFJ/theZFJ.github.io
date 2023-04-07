@@ -57,3 +57,7 @@
 [submodule "content/Sports/2023"]
 	path = content/Sports/2023
 	url = https://github.com/theZFJ/2023-sports
+	
+[submodule "static/2023"]
+	path = static/2023
+	url = https://github.com/theZFJ/2023-images
