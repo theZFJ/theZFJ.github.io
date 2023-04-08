@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>government on The Zombie Fridge Journal</title>
+    <title>Government on The Zombie Fridge Journal</title>
     <link>https://theZFJ.github.io/tags/government/</link>
-    <description>Recent content in government on The Zombie Fridge Journal</description>
+    <description>Recent content in Government on The Zombie Fridge Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Sep 2022 23:45:29 -0400</lastBuildDate><atom:link href="https://theZFJ.github.io/tags/government/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Apr 2023 16:41:45 -0400</lastBuildDate><atom:link href="https://theZFJ.github.io/tags/government/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Init</title>
-      <link>https://theZFJ.github.io/domestic-affairs/init/</link>
-      <pubDate>Fri, 16 Sep 2022 23:45:29 -0400</pubDate>
+      <title>BranchTest</title>
+      <link>https://theZFJ.github.io/branchtest/</link>
+      <pubDate>Sat, 08 Apr 2023 16:41:45 -0400</pubDate>
       
-      <guid>https://theZFJ.github.io/domestic-affairs/init/</guid>
-      <description>The ZFJ has created an init page for testing, sources say.
-It seems to want to customize this website.
-At this time, there is no planned completion date for the website customization project.</description>
+      <guid>https://theZFJ.github.io/branchtest/</guid>
+      <description>This is a test of pull requests.</description>
     </item>
     
   </channel>

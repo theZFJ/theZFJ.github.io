@@ -6,9 +6,9 @@ thumbnail: ""
 images: 
   - 
 categories:
-  - ""
+  - "Domestic Affairs"
 tags:
-  - ""
+  - "Government"
 
 authors:
   - Alvin Wu
