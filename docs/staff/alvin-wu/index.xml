@@ -5,16 +5,6 @@
     <link>https://theZFJ.github.io/staff/alvin-wu/</link>
     <description>Recent content in Alvin Wu on The Zombie Fridge Journal</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 08 Apr 2023 16:41:45 -0400</lastBuildDate><atom:link href="https://theZFJ.github.io/staff/alvin-wu/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>BranchTest</title>
-      <link>https://theZFJ.github.io/branchtest/</link>
-      <pubDate>Sat, 08 Apr 2023 16:41:45 -0400</pubDate>
-      
-      <guid>https://theZFJ.github.io/branchtest/</guid>
-      <description>This is a test of pull requests.</description>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://theZFJ.github.io/staff/alvin-wu/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
