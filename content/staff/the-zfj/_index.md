@@ -1,6 +1,6 @@
 ---
-name: The ZFJ
+title: The ZFJ
 job: 
 photo: 
 ---
-The Zombie Fridge Journal is a newspaper project based in the NYC metropolitan area run by students.
+The Zombie Fridge Journal is a student-run newspaper based in the New York City metropolitan area.

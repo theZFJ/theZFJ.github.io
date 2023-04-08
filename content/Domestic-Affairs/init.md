@@ -2,6 +2,7 @@
 title: "Init"
 description: "Description init"
 date: "2022-09-16T23:45:29-04:00"
+draft: true
 thumbnail: ""
 categories:
   - "Domestic Affairs"

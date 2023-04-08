@@ -6,14 +6,14 @@ thumbnail: ""
 type: info
 ---
 
-The Zombie Fridge Journal is an amateur newspaper based in the New York City metropolitan area. 
+The Zombie Fridge Journal is a student-run newspaper based in the New York City metropolitan area. 
 
-It covers news in various areas, such as government affairs or science. 
+Its personnel are amateurs, so this journalism project could crash and burn at any time. They do what they do for fun.
 
-The Parallel Universe Reports Bureau is the satirical arm. Because all of its reports hold true in some other universe.
+The ZFJ Parallel Universe Bureau is a major advancement for humanity based on the [many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation). Staffed round the clock by Nobel-winning physicists, PUB uses cutting-edge technology to receive reports from alternate universes and present to you. All of what they say is real—in an alternate universe bearing a bizarre resemblance to our own.
 
 ## Staff 
 
 **Editor-in-Chief** [Alvin Wu]({{< ref "/staff/alvin-wu" >}})
 
-**Copy Editor** Sushanth Balaraman
+**Deputy Editor-in-Chief** [Sushanth Balaraman]({{< ref "/staff/sushanth-balaraman" >}})

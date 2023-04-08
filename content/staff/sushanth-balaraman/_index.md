@@ -1,5 +1,5 @@
 ---
-name: Sushanth Balaraman
+title: Sushanth Balaraman
 job: Deputy Editor-in-Chief
 photo:
 ---
