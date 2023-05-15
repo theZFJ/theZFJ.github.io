@@ -14,9 +14,9 @@ staff:
   -
 ---
 
-**Editor-in-chief's Note:** 
+**Editor-in-chief Wu's Note:** 
 
-*The article below is the original version of the article published 2022-01-07 in* The Eagle's Eye, *archived by Alvin Wu, one of its writers. Published on a snow day, it received over 600 views before it disappeared less than 24 hours later in the Jan 2022 Censorship Incident. After the superintendent of Edison Township Public Schools saw it, it was ordered deleted and rewritten by the principal of Edison High School on the grounds that the article used a biased sample of quotes. [The article was republished](https://ehseagleseye.com/3982/uncategorized/return-from-winter-break-brings-mixed-emotions/) on 2022-01-21 once quotes in support of the school district were added. The ZFJ has reproduced the original version for historical purposes.* 
+*The article below is the original version of the article published 2022-01-07 in* The Eagle's Eye, *archived by Alvin Wu, one of its writers. The article was approved by the student editors of the newspaper's News Department as well as both teacher advisers. Published on a snow day, it received over 600 views before it disappeared less than 24 hours later in the Jan 2022 Censorship Incident. After the superintendent of Edison Township Public Schools saw it, it was ordered deleted and rewritten by the principal of Edison High School on the grounds that the article used a biased sample of quotes. [The article was republished](https://ehseagleseye.com/3982/uncategorized/return-from-winter-break-brings-mixed-emotions/) on 2022-01-21 once quotes in support of the school district were added. The ZFJ has reproduced the original version for historical purposes.* 
 
 *New Jersey's New Voices law, signed into law in December 2021, restricts school administrations solely to prohibiting illegal content in student newspapers—"factual incorrectness" or "bias" are not valid grounds for article deletion.* 
 
