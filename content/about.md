@@ -6,11 +6,11 @@ thumbnail: ""
 type: info
 ---
 
-The Zombie Fridge Journal is a student-run newspaper based in the New York City metropolitan area. 
+The Zombie Fridge Journal is a student-run newspaper reporting on general affairs and based in the New York City metropolitan area. 
 
 Its personnel are amateurs, so this journalism project could crash and burn at any time. They do what they do for fun.
 
-Editor-in-chief Wu decided to make it after the [Jan 2022 Censorship Incident]({{< ref "/jan2022CensorshipIncident" >}}), but it took him over a year and several holiday breaks to set up the website because he prefers napping to working.
+Editor-in-chief Wu decided to create it after the [Jan 2022 Censorship Incident]({{< ref "/jan2022CensorshipIncident" >}}), but it took him over a year and several holiday breaks to set up the website because he greatly prefers napping to working.
 
 The ZFJ operates independently of any school authorities.
 
