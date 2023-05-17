@@ -1,6 +1,6 @@
 ---
 title: "[CENSORED VERSION] Return from Winter Break Brings Mixed Emotions"
-description: "Censored version of a school newspaper article about the Edison Township Public Schools's continuation of in-person instruction during the largest surge in COVID-19 cases per day in pandemic in the United States."
+description: "Censored version of a school newspaper article about the Edison Township Public Schools's continuation of in-person instruction during the largest surge in COVID-19 cases per day in the pandemic in the United States."
 date: ""
 thumbnail: ""
 images: 
@@ -16,9 +16,11 @@ staff:
 
 **Editor-in-chief Wu's Note:** 
 
-*The article below is the original version of the article published 2022-01-07 in* The Eagle's Eye, *archived by Alvin Wu, one of its writers. The article was approved by the student editors of the newspaper's News Department as well as both teacher advisers. Published on a snow day, it received over 600 views before it disappeared less than 24 hours later in the Jan 2022 Censorship Incident. After the superintendent of Edison Township Public Schools saw it, it was ordered deleted and rewritten by the principal of Edison High School on the grounds that the article used a biased sample of quotes. [The article was republished](https://ehseagleseye.com/3982/uncategorized/return-from-winter-break-brings-mixed-emotions/) on 2022-01-21 once quotes in support of the school district were added. The ZFJ has reproduced the original version for historical purposes.* 
+*The article below is the original version of the article published 2022-01-07 in* The Eagle's Eye, *archived by me, one of its writers. I proposed the article and received approval on New Year's Eve 2021 after the school district sent [a community letter about the return to school during the largest surge in COVID-19 cases per day in the pandemic in the United States](https://storage.googleapis.com/pt06-2/messages/attachments/de44a4a73e288a32f7ed44348de75abb/January_3_2022_-_Parent-Guardian_%25281%2529.pdf). I asked the Bdison Board of Education questions at their public meeting on 2022-01-03 and interviewed various students for their opinions before winter break ended. The article was approved by the student editors of the newspaper's News Department as well as both teacher advisers. Published on a snow day, it received over 600 views before it disappeared less than 24 hours later in the Jan 2022 Censorship Incident. After the superintendent of Edison Township Public Schools saw it, it was ordered deleted and rewritten by the principal of Edison High School on the grounds that the article used a biased sample of quotes. [The article was republished](https://ehseagleseye.com/3982/uncategorized/return-from-winter-break-brings-mixed-emotions/) two weeks later on 2022-01-21 once quotes in support of the school district were added. The ZFJ has reproduced the original version for historical purposes.* 
 
 *New Jersey's New Voices law, signed into law in December 2021, restricts school administrations solely to prohibiting illegal content in student newspapers—"factual incorrectness" or "bias" are not valid grounds for article deletion.* 
+
+*In the two weeks after winter break (week of Jan 3 and week of Jan 10), the school district reported 630 COVID-19 cases. Opinions tempered significantly after those two weeks compared to during winter break, when returning during the largest case surge did not seem as safe. Thus, the republished article with new opinions is wholly distinct from the original.*
 
 ---
 
