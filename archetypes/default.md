@@ -3,6 +3,7 @@ title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
 description: ""
 date: "{{ .Date }}"
 thumbnail: ""
+thumbnail caption: ""
 images: 
   - 
 categories:
@@ -15,4 +16,5 @@ authors:
 # all contributors
 staff:
   -
+
 ---
