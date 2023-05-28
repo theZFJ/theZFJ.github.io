@@ -6,11 +6,11 @@
     <description>Recent content in Staff on The Zombie Fridge Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 May 2023 21:32:50 -0400</lastBuildDate><atom:link href="https://theZFJ.github.io/staff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 May 2023 15:08:10 -0400</lastBuildDate><atom:link href="https://theZFJ.github.io/staff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alvin Wu</title>
       <link>https://theZFJ.github.io/staff/alvin-wu/</link>
-      <pubDate>Thu, 18 May 2023 21:32:50 -0400</pubDate>
+      <pubDate>Sun, 28 May 2023 15:08:10 -0400</pubDate>
       
       <guid>https://theZFJ.github.io/staff/alvin-wu/</guid>
       <description>&amp;ldquo;Someone has to do it.&amp;rdquo;
@@ -51,6 +51,15 @@ Wu is the cynical lunatic in charge of the ZFJ. He was a staff writer for the sc
       
       <guid>https://theZFJ.github.io/staff/the-zfj/</guid>
       <description>The Zombie Fridge Journal is a student-run newspaper based in the New York City metropolitan area.</description>
+    </item>
+    
+    <item>
+      <title>Zoe Wu</title>
+      <link>https://theZFJ.github.io/staff/zoe-wu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://theZFJ.github.io/staff/zoe-wu/</guid>
+      <description></description>
     </item>
     
   </channel>
