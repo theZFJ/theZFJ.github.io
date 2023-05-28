@@ -29,3 +29,7 @@ The ZFJ Parallel Universe Bureau is a major advancement for humanity based on th
 **Editor-in-Chief** [Alvin Wu]({{< ref "/staff/alvin-wu" >}})
 
 **Deputy Editor-in-Chief** [Sushanth Balaraman]({{< ref "/staff/sushanth-balaraman" >}})
+
+**Social Media Manager** [Siddharth Perikala]({{< ref "/staff/siddharth-perikala" >}})
+
+**Reporter** [Leonard Lim]({{< ref "/staff/leonard-lim" >}})
