@@ -34,4 +34,6 @@ The ZFJ Parallel Universe Bureau is a major advancement for humanity based on th
 
 **Reporter** [Leonard Lim]({{< ref "/staff/leonard-lim" >}})
 
+**Illustrator** [Violet Bak]({{< ref "/staff/violet-bak" >}})
+
 **Illustrator** [Zoe Wu]({{< ref "/staff/zoe-wu" >}})
