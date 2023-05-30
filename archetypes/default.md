@@ -3,7 +3,7 @@ title: "{{ replace .TranslationBaseName '-' ' ' | title }}"
 description: ""
 date: "{{ .Date }}"
 thumbnail: ""
-thumbnail caption: ""
+thumbnailCaption: ""
 images: 
   - 
 categories:

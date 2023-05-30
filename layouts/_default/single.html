@@ -17,6 +17,7 @@
 			{{- end }}
 		</header>
 		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
+		{{ partial "thumbnail-caption.html" . }}
 		{{- partial "post_toc.html" . -}}
 		<div class="content post__content clearfix">
 			{{ .Content }}
