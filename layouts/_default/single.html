@@ -14,8 +14,6 @@
 			{{ with partial "post_meta.html" . -}}
 			<div>{{ . }}</div>
 			<!-- original: <div class="post__meta meta">{{ . }}</div> -->
-			<br>
-			<hr>
 			{{- end }}
 		</header>
 		{{ partial "post_thumbnail.html" (dict "class" "post" "page" .) }}
