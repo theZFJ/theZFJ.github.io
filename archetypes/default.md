@@ -13,6 +13,8 @@ tags:
 
 authors:
   - 
+visualCredit:
+  - 
 # all contributors
 staff:
   -
