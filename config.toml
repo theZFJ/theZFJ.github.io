@@ -19,6 +19,7 @@ publishDir = "docs"
     "Sports"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "15:04 2006-01-02" # Change the format of dates
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
+  customCSS = ["custom.css"]
 
 [Params.style.vars]
   highlightColor = "#e00007" # Override highlight color
