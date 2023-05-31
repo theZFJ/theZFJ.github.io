@@ -20,6 +20,14 @@ The ZFJ's name comes from a security joke. Some fridges these days can connect t
 
 Yea, Wu knows he's horrible at thinking of names. He's working on it. 
 
+## The Newspaper's Motto
+
+I asked a friend to translate the motto into Latin using his limited knowledge from his high school classes. We're not sure if it's right or not, but itll work out both ways. It's supposed to mean "always serious." But yeah, *of course it had to be in Latin.* Latin makes everything sound cooler. 
+
+> The federal judiciary is staffed by total Latin dorks. 
+> 
+> — *The Onion, amicus brief for Supreme Court case Novak v. Parma (22-293)*
+
 ## The Parallel Universe Bureau
 
 The ZFJ Parallel Universe Bureau is a major advancement for humanity based on the [many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation). Staffed round the clock by Nobel-winning physicists, PUB uses cutting-edge technology to receive reports from alternate universes and present to you. All of what they say is real—in an alternate universe bearing a bizarre resemblance to our own.
