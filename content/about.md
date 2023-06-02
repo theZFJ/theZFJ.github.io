@@ -40,6 +40,8 @@ The ZFJ Parallel Universe Bureau is a major advancement for humanity based on th
 
 **Social Media Manager** [Siddharth Perikala]({{< ref "/staff/siddharth-perikala" >}})
 
+**Photographer** [Jodie Hur]({{< ref "/staff/jodie-hur" >}})
+
 **Reporter** [Leonard Lim]({{< ref "/staff/leonard-lim" >}})
 
 **Illustrator** [Violet Bak]({{< ref "/staff/violet-bak" >}})
