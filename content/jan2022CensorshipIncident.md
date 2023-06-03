@@ -24,7 +24,7 @@ staff:
 
 *The next school year, I was reassigned to sports editor. I proposed writing an article about the [superintendent's resignation following his unsuccessful contract extension negotations](https://patch.com/new-jersey/edison-metuchen/no-contract-extension-leads-edison-schools-superintendent-leaving), which was a divisive matter for the Edison Board of Education. The newspaper advisers declined, claiming the matter was not sufficiently newsworthy.*
 
-*The other original writer, Devam Mondal, has since disavowed the COVID-19 article and does not wish to be associated with it or the ZFJ. He was promoted to* The Eagle's Eye *editor-in-chief for Sports and Opinion for one year and editor-in-chief for News the next. He requested that his name be removed from the byline in the republished article below. I declined because I don't adulterate historical records to cover up information.*
+*The other original writer, Devam Mondal, has since disavowed the COVID-19 article and does not wish to be associated with it or the ZFJ. He was promoted to* The Eagle's Eye *editor-in-chief for Sports and Opinion the next school year and editor-in-chief for News the year after. He requested that his name be removed from the byline in the republished article below. I declined because I don't adulterate historical records to cover up information.*
 
 ---
 
