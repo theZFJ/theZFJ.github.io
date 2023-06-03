@@ -22,7 +22,7 @@ staff:
 
 *In the two weeks after winter break (week of Jan 3 and week of Jan 10), the school district reported 630 COVID-19 cases. Opinions tempered significantly after those two weeks compared to during winter break, when returning during the largest case surge did not seem as safe. Thus, the republished article with new opinions is wholly distinct from the original.*
 
-*The next school year, I was reassigned to sports editor. I proposed writing an article about the [superintendent's resignation following his unsuccessful contract extension negotations](https://patch.com/new-jersey/edison-metuchen/no-contract-extension-leads-edison-schools-superintendent-leaving), which was a divisive matter for the Edison Board of Education. The newspaper advisers declined, claiming the matter was not sufficiently newsworthy.*
+*The next school year, I was reassigned to sports editor. I proposed writing an article about the [superintendent's resignation following his unsuccessful contract extension negotations](https://patch.com/new-jersey/edison-metuchen/no-contract-extension-leads-edison-schools-superintendent-leaving), which was a divisive matter for the Edison Board of Education. The newspaper advisers halted draft writing, claiming the matter was not sufficiently newsworthy.*
 
 *The other original writer, Devam Mondal, has since disavowed the COVID-19 article and does not wish to be associated with it or the ZFJ. He was promoted to* The Eagle's Eye *editor-in-chief for Sports and Opinion the next school year and editor-in-chief for News the year after. He requested that his name be removed from the byline in the republished article below. I declined because I don't adulterate historical records to cover up information.*
 
