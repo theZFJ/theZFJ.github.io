@@ -4,6 +4,7 @@ title = "The Zombie Fridge Journal"
 theme = 'mainroad'
 paginate = '10'
 publishDir = "docs"
+googleAnalytics = "G-506M1GBBP6"
 
 [Params]
   title = "The Zombie Fridge Journal"
