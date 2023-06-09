@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://theZFJ.github.io/staff/alvin-wu/</loc>
-    <lastmod>2023-06-07T23:01:10-04:00</lastmod>
-  </url><url>
     <loc>https://theZFJ.github.io/tags/canada/</loc>
     <lastmod>2023-06-07T23:01:10-04:00</lastmod>
   </url><url>
@@ -30,6 +27,9 @@
     <lastmod>2023-06-07T23:01:10-04:00</lastmod>
   </url><url>
     <loc>https://theZFJ.github.io/tags/</loc>
+    <lastmod>2023-06-07T23:01:10-04:00</lastmod>
+  </url><url>
+    <loc>https://theZFJ.github.io/staff/the-zfj/</loc>
     <lastmod>2023-06-07T23:01:10-04:00</lastmod>
   </url><url>
     <loc>https://theZFJ.github.io/</loc>
@@ -68,9 +68,6 @@
     <loc>https://theZFJ.github.io/tags/u.s.-supreme-court/</loc>
     <lastmod>2023-05-28T15:08:10-04:00</lastmod>
   </url><url>
-    <loc>https://theZFJ.github.io/staff/violet-bak/</loc>
-    <lastmod>2023-05-28T15:08:10-04:00</lastmod>
-  </url><url>
     <loc>https://theZFJ.github.io/tags/wetlands/</loc>
     <lastmod>2023-05-28T15:08:10-04:00</lastmod>
   </url><url>
@@ -102,19 +99,5 @@
     <lastmod>2023-05-18T21:32:50-04:00</lastmod>
   </url><url>
     <loc>https://theZFJ.github.io/about/</loc>
-  </url><url>
-    <loc>https://theZFJ.github.io/staff/avinash-aravind/</loc>
-  </url><url>
-    <loc>https://theZFJ.github.io/staff/jodie-hur/</loc>
-  </url><url>
-    <loc>https://theZFJ.github.io/staff/leonard-lim/</loc>
-  </url><url>
-    <loc>https://theZFJ.github.io/staff/siddharth-perikala/</loc>
-  </url><url>
-    <loc>https://theZFJ.github.io/staff/sushanth-balaraman/</loc>
-  </url><url>
-    <loc>https://theZFJ.github.io/staff/the-zfj/</loc>
-  </url><url>
-    <loc>https://theZFJ.github.io/staff/zoe-wu/</loc>
   </url>
 </urlset>

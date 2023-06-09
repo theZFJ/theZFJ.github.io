@@ -31,19 +31,3 @@ I asked a friend to translate the motto into Latin using his limited knowledge f
 ## The Parallel Universe Bureau
 
 The ZFJ Parallel Universe Bureau is a major advancement for humanity based on the [many-worlds interpretation](https://en.wikipedia.org/wiki/Many-worlds_interpretation). Staffed round the clock by Nobel-winning physicists, PUB uses cutting-edge technology to receive reports from alternate universes and present to you. All of what they say is real—in an alternate universe bearing a bizarre resemblance to our own.
-
-## Staff 
-
-**Editor-in-Chief** [Alvin Wu]({{< ref "/staff/alvin-wu" >}})
-
-**Deputy Editor-in-Chief** [Sushanth Balaraman]({{< ref "/staff/sushanth-balaraman" >}})
-
-**Social Media Manager** [Siddharth Perikala]({{< ref "/staff/siddharth-perikala" >}})
-
-**Photographer** [Jodie Hur]({{< ref "/staff/jodie-hur" >}})
-
-**Reporter** [Leonard Lim]({{< ref "/staff/leonard-lim" >}})
-
-**Illustrator** [Violet Bak]({{< ref "/staff/violet-bak" >}})
-
-**Illustrator** [Zoe Wu]({{< ref "/staff/zoe-wu" >}})
