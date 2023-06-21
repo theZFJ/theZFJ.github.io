@@ -14,6 +14,8 @@ Editor-in-chief Wu decided to create it after the [Jan 2022 Censorship Incident]
 
 The ZFJ operates independently of any school authorities.
 
+Any opinions expressed are of their respective writers and not the ZFJ. 
+
 ## The Newspaper's Name
 
 The ZFJ's name comes from a security joke. Some fridges these days can connect to the internet, and anything with an internet connection can theoretically be hacked (especially internet of things, or IoT, devices that don't receive frequent security updates). A device incorporated into a botnet by hackers is called a "zombie." Hence, zombie fridges. 
