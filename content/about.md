@@ -28,7 +28,7 @@ I asked a friend to translate the motto into Latin using his limited knowledge f
 
 > The federal judiciary is staffed by total Latin dorks. 
 > 
-> — *The Onion, amicus brief for Supreme Court case Novak v. Parma (22-293)*
+> — *The Onion, amicus brief for Supreme Court case* Novak v. Parma *(22-293)*
 
 ## The Parallel Universe Bureau
 
