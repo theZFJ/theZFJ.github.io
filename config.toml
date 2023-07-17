@@ -58,9 +58,9 @@ googleAnalytics = "G-506M1GBBP6"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  twitter = ""
+  twitter = "AkiraRorschach"
   instagram = "zfjnews"
-  email = ""
+  email = "alvin.wu@zfjnews.com"
 
 [menu] # Menu bar under header 
 [[menu.main]]
