@@ -62,6 +62,11 @@ googleAnalytics = "G-506M1GBBP6"
   instagram = "zfjnews"
   email = "alvin.wu@zfjnews.com"
 
+  [markup]
+  defaultMarkdownHandler = 'goldmark'
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu] # Menu bar under header 
 [[menu.main]]
   identifier = 'About'
