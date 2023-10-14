@@ -28,7 +28,7 @@ Yea, Wu knows he's horrible at thinking of names. He's working on it.
 
 ## The Newspaper's Motto
 
-Wu asked a friend to translate the motto into Latin using his limited knowledge from his high school classes. We're not sure if it's right or not, but it works out both ways. It's supposed to mean "always serious." But yeah, *of course it had to be in Latin.* Latin makes everything sound cooler. 
+It's supposed to mean "always serious." But yeah, *of course it had to be in Latin.* Latin makes everything sound cooler. 
 
 > The federal judiciary is staffed by total Latin dorks. 
 > 

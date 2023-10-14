@@ -34,7 +34,7 @@ googleAnalytics = "G-506M1GBBP6"
 [Params.logo]
   image = "zfjLogo.png" # Logo image. Path relative to "static"
   title = "The Zombie Fridge Journal" # Logo title, otherwise will use site title
-  subtitle = "Semper severus." # Logo subtitle
+  subtitle = "Semper serius." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility

@@ -1,5 +1,5 @@
 ---
 title: Akira Rorschach
-job: 
+job: Editor-in-chief
 photo: 
 ---
