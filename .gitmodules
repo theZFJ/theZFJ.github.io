@@ -10,8 +10,8 @@
 	path = content/Business/2023
 	url = https://github.com/theZFJ/2023-business
 
-[submodule "content/Arts-and-Entertainment/2023"]
-	path = content/Arts-and-Entertainment/2023
+[submodule "content/Entertainment/2023"]
+	path = content/Entertainment/2023
 	url = https://github.com/theZFJ/2023-entertainment
 
 [submodule "content/Foreign-Affairs/Africa/2023"]
