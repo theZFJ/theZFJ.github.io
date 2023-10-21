@@ -67,6 +67,12 @@ googleAnalytics = "G-506M1GBBP6"
     [markup.goldmark.renderer]
       unsafe = true
 
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
+  taxonomy = ['html']
+  term = ['html']
+
 [menu] # Menu bar under header 
 [[menu.main]]
   identifier = 'About'
