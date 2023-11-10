@@ -10,7 +10,7 @@ The Zombie Fridge Journal is a student-run newspaper reporting on general affair
 
 Its personnel choose to run it for fun. It hasn't crashed and burned yet, so that's a good sign. 
 
-Editor-in-chief Wu decided to create it after his [COVID-19 article was censored](https://www.zfjnews.com/jan2022censorshipincident/).
+Editor-in-chief Wu decided to create it after his [COVID-19 article was censored](https://www.zfjnews.com/jan2022censorshipincident/). It launched in May 2023. 
 
 The ZFJ operates independently of any school authorities.
 
