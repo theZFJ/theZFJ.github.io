@@ -105,10 +105,10 @@ googleAnalytics = "G-506M1GBBP6"
   url = '/categories/arts-and-entertainment/'
   weight = -80
 [[menu.main]]
-  identifier = 'Medicine'
-  name = 'Medicine'
+  identifier = 'Health and Medicine'
+  name = 'Health and Medicine'
   pre = "<i class='fa fa-heart'></i>"
-  url = '/categories/medicine/'
+  url = '/categories/health-and-medicine/'
   weight = -70
 [[menu.main]]
   identifier = 'Science and Technology'

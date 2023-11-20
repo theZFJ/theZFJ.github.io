@@ -38,8 +38,8 @@
 	path = content/Foreign-Affairs/Russia/2023
 	url = https://github.com/theZFJ/2023-russia
 
-[submodule "content/Medicine/2023"]
-	path = content/Medicine/2023
+[submodule "content/Health-and-Medicine/2023"]
+	path = content/Health-and-Medicine/2023
 	url = https://github.com/theZFJ/2023-medicine
 
 [submodule "content/Opinion/2023"]
