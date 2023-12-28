@@ -62,6 +62,21 @@ jobs:
            ${{ secrets.SCIENCE_AND_TECHNOLOGY_2023 }}
            ${{ secrets.SPORTS_2023 }}
            ${{ secrets.IMAGES_2023 }}
+           ${{ secrets.DOMESTIC_AFFAIRS_2024 }}
+           ${{ secrets.AFRICA_2024 }}
+           ${{ secrets.AMERICAS_2024 }}
+           ${{ secrets.ASIA_PACIFIC_2024 }}
+           ${{ secrets.BUSINESS_2024 }}
+           ${{ secrets.ARTS_AND_ENTERTAINMENT_2024 }}
+           ${{ secrets.EUROPE_2024 }}
+           ${{ secrets.HEALTH_AND_MEDICINE_2024 }}
+           ${{ secrets.MIDDLE_EAST_2024 }}
+           ${{ secrets.OPINION_2024 }}
+           ${{ secrets.PARALLEL_UNIVERSE_REPORTS_2024 }}
+           ${{ secrets.RUSSIA_2024 }}
+           ${{ secrets.SCIENCE_AND_TECHNOLOGY_2024 }}
+           ${{ secrets.SPORTS_2024 }}
+           ${{ secrets.IMAGES_2024 }}
            
       - run: git submodule update --init --recursive 
           
