@@ -61,3 +61,63 @@
 [submodule "static/2023"]
 	path = static/2023
 	url = https://github.com/theZFJ/2023-images
+
+[submodule "content/Domestic-Affairs/2024"]
+	path = content/Domestic-Affairs/2024
+	url = https://github.com/theZFJ/2024-domestic-affairs
+	
+[submodule "static/2024"]
+	path = static/2024
+	url = https://github.com/theZFJ/2024-images
+	
+[submodule "content/Business/2024"]
+	path = content/Business/2024
+	url = https://github.com/theZFJ/2024-business
+
+[submodule "content/Science-and-Technology/2024"]
+	path = content/Science-and-Technology/2024
+	url = https://github.com/theZFJ/2024-science-and-technology
+	
+[submodule "content/Arts-and-Entertainment/2024"]
+	path = content/Arts-and-Entertainment/2024
+	url = https://github.com/theZFJ/2024-arts-and-entertainment
+
+[submodule "content/Health-and-Medicine/2024"]
+	path = content/Health-and-Medicine/2024
+	url = https://github.com/theZFJ/2024-health-and-medicine
+
+[submodule "content/Opinion/2024"]
+	path = content/Opinion/2024
+	url = https://github.com/theZFJ/2024-opinion
+
+[submodule "content/Foreign-Affairs/Asia-Pacific/2024"]
+	path = content/Foreign-Affairs/Asia-Pacific/2024
+	url = https://github.com/theZFJ/2024-asia-pacific
+
+[submodule "content/Foreign-Affairs/Americas/2024"]
+	path = content/Foreign-Affairs/Americas/2024
+	url = https://github.com/theZFJ/2024-americas
+	
+[submodule "content/Foreign-Affairs/Africa/2024"]
+	path = content/Foreign-Affairs/Africa/2024
+	url = https://github.com/theZFJ/2024-africa
+
+[submodule "content/Foreign-Affairs/Europe/2024"]
+	path = content/Foreign-Affairs/Europe/2024
+	url = https://github.com/theZFJ/2024-europe
+
+[submodule "content/Foreign-Affairs/Middle-East/2024"]
+	path = content/Foreign-Affairs/Middle-East/2024
+	url = https://github.com/theZFJ/2024-middle-east
+
+[submodule "content/Foreign-Affairs/Russia/2024"]
+	path = content/Foreign-Affairs/Russia/2024
+	url = https://github.com/theZFJ/2024-russia
+
+[submodule "content/Parallel-Universe-Reports/2024"]
+	path = content/Parallel-Universe-Reports/2024
+	url = https://github.com/theZFJ/2024-parallel-universe-reports
+	
+[submodule "content/Sports/2024"]
+	path = content/Sports/2024
+	url = https://github.com/theZFJ/2024-sports
