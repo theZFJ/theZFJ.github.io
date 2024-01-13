@@ -1,12 +1,12 @@
 ---
 title: "About"
-description: "The Zombie Fridge Journal is a student-run newspaper reporting on general affairs and based in the New York City metropolitan area."
+description: "The Zombie Fridge Journal is a student-run nonprofit and nonprofitable newspaper reporting on general affairs and based in the New York City metropolitan area."
 date: ""
 thumbnail: ""
 type: info
 ---
 
-The Zombie Fridge Journal is a student-run newspaper reporting on general affairs and based in the New York City metropolitan area. 
+*The Zombie Fridge Journal* is a student-run nonprofit and nonprofitable newspaper reporting on general affairs and based in the New York City metropolitan area. 
 
 Its personnel choose to run it for fun. It hasn't crashed and burned yet, so that's a good sign. 
 
@@ -14,11 +14,11 @@ Editor-in-chief Wu decided to create it after his [COVID-19 article was censored
 
 The ZFJ operates independently of any school authorities.
 
-Any opinions expressed are of their respective writers and not the ZFJ. 
+Any opinions expressed are of their respective writers and not the *ZFJ*. 
 
 ## Contact
 
-Direct questions, comments, and corrections to Editor-in-Chief Alvin Wu at alvin.wu@zfjnews.com. 
+Direct questions, comments, and corrections to Editor-in-Chief Alvin Wu at alvin.wu@zfjnews.com. Don't worry, he doesn't bite. 
 
 ## The Newspaper's Name
 
