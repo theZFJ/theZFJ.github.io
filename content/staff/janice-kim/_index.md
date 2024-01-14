@@ -1,5 +1,5 @@
 ---
 title: Janice Kim
-job: 
+job: Illustrator
 photo: 
 ---

@@ -1,5 +1,5 @@
 ---
 title: Arjun Shah
-job: 
+job: Reporter
 photo: 
 ---
