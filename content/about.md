@@ -12,7 +12,7 @@ Its personnel choose to run it for fun. It hasn't crashed and burned *yet*, so t
 
 Editor-in-chief Wu decided to create it after his [COVID-19 article was censored](https://www.zfjnews.com/jan2022censorshipincident/). [Its first article](https://www.zfjnews.com/science-and-technology/2023/66-chance-world-exceeds-warming-threshold-before-2027/) was published on May 18, 2023. 
 
-The *ZFJ* operates independently of any school authorities.
+The *ZFJ* operates independently of any school authorities and is neither affiliated with nor endorsed by any of them.
 
 Any opinions expressed are of their respective writers and not the *ZFJ*. 
 
@@ -31,6 +31,8 @@ It's supposed to mean "always serious." But yeah, *of course it had to be in Lat
 > The federal judiciary is staffed by total Latin dorks. 
 > 
 > — *The Onion, amicus brief for Supreme Court case* Novak v. Parma *(22-293)*
+
+This publication's name is pretty silly, but we don't treat journalism as any laughing matter. We're not professionals, but we're committed to our work. We'll review court documents, scientific reports, and a whole lot more to get the facts straight. You can find sources listed at the end of each article. 
 
 ## The Parallel Universe Bureau
 
