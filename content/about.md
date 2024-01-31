@@ -46,8 +46,8 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Reporter** [Kirby Kim]({{< ref "/staff/kirby-kim" >}})
 
-**Reporter** [Luere Kim]({{< ref "/staff/luere-kim" >}})
-
 **Reporter** [Arjun Shah]({{< ref "/staff/arjun-shah" >}})
+
+**Photographer** [Luere Kim]({{< ref "/staff/luere-kim" >}})
 
 **Illustrator** [Janice Kim]({{< ref "/staff/janice-kim" >}})

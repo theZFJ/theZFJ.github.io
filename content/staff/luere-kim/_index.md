@@ -1,5 +1,5 @@
 ---
 title: Luere Kim
-job: Reporter
+job: Photographer
 photo: 
 ---
