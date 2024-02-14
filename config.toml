@@ -8,7 +8,7 @@ googleAnalytics = "G-506M1GBBP6"
 
 [Params]
   title = "The Zombie Fridge Journal"
-  description = "Student-run newspaper reporting on general affairs and based in the NYC metropolitan area." # Site description. Used in meta description
+  description = "Student-run newspaper reporting on general affairs based in the NYC metropolitan area." # Site description. Used in meta description
   copyright = "The Zombie Fridge Journal" # Footer copyright holder, otherwise will use site title
   readmore = true # Show "Read more" button in list if true
   authorbox = false # Show authorbox at bottom of pages if true
