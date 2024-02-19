@@ -58,7 +58,7 @@ googleAnalytics = "G-506M1GBBP6"
 
 [Params.widgets.social]
   # Enable parts of social widget
-  twitter = "AkiraRorschach"
+  twitter = "zfjnews"
   instagram = "zfjnews"
 
   [markup]
@@ -69,7 +69,7 @@ googleAnalytics = "G-506M1GBBP6"
 # Custom social links
 [[Params.widgets.social.custom]]
   title = "YouTube"
-  url = "https://www.youtube.com/@TheZFJ"
+  url = "https://www.youtube.com/@zfjnews"
   icon = "youtube.svg" # Optional. Path relative to "layouts/partials"
   rel = "noopener noreferrer" # Set to false to remove the rel attribute
 
