@@ -1,5 +1,5 @@
 ---
 title: Kirby Kim
-job: Sports and Entertainment Editor
+job: Sports and Entertainment Reporter
 photo: 
 ---
