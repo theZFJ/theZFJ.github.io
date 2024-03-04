@@ -86,7 +86,7 @@ googleAnalytics = "G-506M1GBBP6"
   weight = -120
 [[menu.main]]
   identifier = 'Domestic Affairs'
-  name = 'domestic affairs'
+  name = 'Domestic Affairs'
   pre = "<i class='fa fa-heart'></i>"
   url = '/categories/domestic-affairs/'
   weight = -110
