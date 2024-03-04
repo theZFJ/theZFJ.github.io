@@ -15,8 +15,8 @@ googleAnalytics = "G-506M1GBBP6"
   pager = true # Show pager navigation (prev/next links) at the bottom of pages if true
   post_meta = ["author", "date", "categories", "translations"] # Order of post meta information
   opengraph = true
-  mainSections = ["africa", "americas", "asia-pacific", "business", "domestic-affairs", "arts-and-entertainment",
-    "europe", "foreign-affairs", "health-and-medicine", "middle-east", "russia", "science-and-technology", 
+  mainSections = ["business", "domestic-affairs", "arts-and-entertainment",
+    "foreign-affairs", "health-and-medicine", "science-and-technology", 
     "sports"] # Specify section pages to show on home page and the "Recent articles" widget
   dateformat = "15:04 2006-01-02" # Change the format of dates
   googleFontsLink = "https://fonts.googleapis.com/css?family=Open+Sans:400,400i,700" # Load Google Fonts
