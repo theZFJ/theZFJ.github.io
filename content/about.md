@@ -44,6 +44,8 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Editor-in-Chief** [Akira Rorschach (Alvin Wu)]({{< ref "/staff/akira-rorschach" >}}) Email: alvin.wu@zfjnews.com
 
+**Deputy Editor-in-Chief** [Hal Nine]({{< ref "/staff/hal-nine" >}})
+
 **Sports and Entertainment Reporter** [Kirby Kim]({{< ref "/staff/kirby-kim" >}})
 
 **Reporter** [Arjun Shah]({{< ref "/staff/arjun-shah" >}})
