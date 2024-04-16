@@ -6,8 +6,15 @@
     <description>Recent content in Health-and-Medicines on The Zombie Fridge Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 30 Dec 2023 22:10:50 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2024 20:53:17 -0400</lastBuildDate>
     <atom:link href="https://theZFJ.github.io/health-and-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FDA approves Dexcom’s Stelo, the first over-the-counter continuous glucose monitor</title>
+      <link>https://theZFJ.github.io/health-and-medicine/2024/fda-dexcom-stelo-first-ever-otc-continuous-glucose-monitor/</link>
+      <pubDate>Mon, 15 Apr 2024 20:53:17 -0400</pubDate>
+      <guid>https://theZFJ.github.io/health-and-medicine/2024/fda-dexcom-stelo-first-ever-otc-continuous-glucose-monitor/</guid>
+      <description>April 14 (ZFJ) — The Food and Drug Administration cleared the Dexcom Stelo Glucose Biosensor System, the first continuous glucose monitor (CGM) approved for use without a prescription in America, for marketing on March 5.&#xA;Stelo is an integrated CGM (iCGM) intended for anyone 18 years and older who doesn’t use insulin, such as diabetic individuals treating their condition with oral medications or people without diabetes who want to see how diet and exercise impact their blood sugar levels.</description>
+    </item>
     <item>
       <title>FDA approves two sickle cell disease gene therapies, one based on CRISPR</title>
       <link>https://theZFJ.github.io/health-and-medicine/2023/fda-approves-sickle-cell-casgevy-crispr-lyfgenia/</link>
@@ -28,13 +35,6 @@
       <pubDate>Thu, 13 Jul 2023 03:07:35 -0400</pubDate>
       <guid>https://theZFJ.github.io/health-and-medicine/2023/fda-traditional-approval-leqembi/</guid>
       <description>July 12 (ZFJ) — The Food and Drug Administration granted traditional approval to Eisai and Biogen’s Leqembi (lecanemab-irmb) 100 mg/mL intravenous injection on July 6. It is the first Alzheimer’s drug to clear this regulatory hurdle and aims to slow the disease’s progression.&#xA;“Today’s action is the first verification that a drug targeting the underlying disease process of Alzheimer’s disease has shown clinical benefit in this devastating disease,” said Teresa Buracchio, acting director of the Office of Neuroscience in FDA’s Center for Drug Evaluation and Research.</description>
-    </item>
-    <item>
-      <title></title>
-      <link>https://theZFJ.github.io/health-and-medicine/2024/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://theZFJ.github.io/health-and-medicine/2024/readme/</guid>
-      <description>2024-health-and-medicine </description>
     </item>
   </channel>
 </rss>
