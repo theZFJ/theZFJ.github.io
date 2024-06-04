@@ -1,5 +1,5 @@
 ---
-title: Luere Kim
+title: Jodie Hur
 job: Photographer
 photo: 
 ---

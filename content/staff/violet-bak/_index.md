@@ -1,5 +1,5 @@
 ---
-title: Janice Kim
+title: Violet Bak
 job: Illustrator
 photo: 
 ---
