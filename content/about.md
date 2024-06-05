@@ -46,7 +46,7 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Deputy Editor-in-Chief** [Hal Nine]({{< ref "/staff/hal-nine" >}})
 
-**Reporter** [Sanā Prajapati]({{< ref "/staff/sana-prajapati" >}})
+**Reporter** [Sanā Prajapati]({{< ref "/staff/sanā-prajapati" >}})
 
 **Reporter - Sports and Entertainment** [Zoe Wu]({{< ref "/staff/zoe-wu" >}})
 
