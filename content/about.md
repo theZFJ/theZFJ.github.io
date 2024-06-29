@@ -10,11 +10,11 @@ type: info
 
 Its personnel choose to run it for fun. It hasn't crashed and burned *yet*, so that's a good sign. 
 
-Editor-in-chief Wu decided to create it after his [COVID-19 article was censored](https://www.zfjnews.com/jan2022censorshipincident/). [Its first article](https://www.zfjnews.com/science-and-technology/2023/66-chance-world-exceeds-warming-threshold-before-2027/) was published on May 18, 2023. 
+Editor-in-chief Wu decided to create it after his [COVID-19 article was censored in January 2022](https://www.zfjnews.com/jan2022censorshipincident/). [Its first article](https://www.zfjnews.com/science-and-technology/2023/66-chance-world-exceeds-warming-threshold-before-2027/) was published on May 18, 2023. 
 
 The *ZFJ* operates independently of any school authorities and is neither affiliated with nor endorsed by any of them.
 
-Any opinions expressed are of their respective writers and not the *ZFJ*. 
+Any opinions expressed are of their respective writers and not *The ZFJ*. 
 
 ## Contact
 
@@ -44,7 +44,7 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Editor-in-Chief** [Alvin Wu]({{< ref "/staff/alvin-wu" >}}) Email: alvin.wu@zfjnews.com
 
-**Deputy Editor-in-Chief** [Hal Nine]({{< ref "/staff/hal-nine" >}})
+**Deputy Editor-in-Chief** [Siddarth Perikala]({{< ref "/staff/siddarth-perikala" >}})
 
 **Reporter** [Sanā Prajapati]({{< ref "/staff/sanā-prajapati" >}})
 
