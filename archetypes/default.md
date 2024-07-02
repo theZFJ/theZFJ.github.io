@@ -17,6 +17,6 @@ visualCredit:
   - 
 # all contributors
 staff:
-  -
+  - 
 
 ---
