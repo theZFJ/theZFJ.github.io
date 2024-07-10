@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sports on The Zombie Fridge Journal</title>
-    <link>http://localhost:1313/sports/</link>
+    <link>https://theZFJ.github.io/sports/</link>
     <description>Recent content in Sports on The Zombie Fridge Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 08 Jun 2024 22:22:44 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1313/sports/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theZFJ.github.io/sports/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Jim Muldowney, former Edison High baseball coach and athletic director, dies at 68</title>
-      <link>http://localhost:1313/sports/2024/obituary-jim-muldowney-ehs-baseball-coach-athletic-director/</link>
+      <link>https://theZFJ.github.io/sports/2024/obituary-jim-muldowney-ehs-baseball-coach-athletic-director/</link>
       <pubDate>Sat, 08 Jun 2024 22:22:44 -0400</pubDate>
-      <guid>http://localhost:1313/sports/2024/obituary-jim-muldowney-ehs-baseball-coach-athletic-director/</guid>
+      <guid>https://theZFJ.github.io/sports/2024/obituary-jim-muldowney-ehs-baseball-coach-athletic-director/</guid>
       <description>EDISON, N.J., June 8 (ZFJ) — James “Diamond Jim” Muldowney, 68, an Edison High School baseball coach and athletic director, died on Tuesday, May 21, after briefly battling cancer.&#xA;“Jim dedicated his life to the betterment of students and athletes, leaving an indelible mark on the community,” reads his obituary. He was a mentor to countless students and coaches alike.&#xA;Muldowney was born in Pennsylvania and raised in Edison. He graduated from Edison High in 1973 and lived in North Brunswick for 33 years.</description>
     </item>
     <item>
       <title>Kansas City Chiefs defeat San Francisco 49ers 25-22 in Super Bowl LVIII</title>
-      <link>http://localhost:1313/sports/2024/super-bowl-lviii-chiefs-defeat-49ers-25-22/</link>
+      <link>https://theZFJ.github.io/sports/2024/super-bowl-lviii-chiefs-defeat-49ers-25-22/</link>
       <pubDate>Wed, 14 Feb 2024 21:16:20 -0500</pubDate>
-      <guid>http://localhost:1313/sports/2024/super-bowl-lviii-chiefs-defeat-49ers-25-22/</guid>
+      <guid>https://theZFJ.github.io/sports/2024/super-bowl-lviii-chiefs-defeat-49ers-25-22/</guid>
       <description>Feb. 14 (ZFJ) — The Kansas City Chiefs defeated the San Francisco 49ers 25-22 in Super Bowl LVIII on Sunday, Feb. 11.&#xA;Securing their third Super Bowl win in five years, the Chiefs have achieved a dynasty.&#xA;The first half of the game was characterized by many punts and a few fumbles. Momentum really picked up from the second half. Overall? Absolutely thrilling game.&#xA;The Chiefs won the coin toss and deferred.</description>
     </item>
     <item>
       <title>Ghelsey Go tops 1,000 points in girls&#39; basketball</title>
-      <link>http://localhost:1313/sports/2024/ghelsey-go-scores-thousandth-point-ehs-girls-basketball/</link>
+      <link>https://theZFJ.github.io/sports/2024/ghelsey-go-scores-thousandth-point-ehs-girls-basketball/</link>
       <pubDate>Thu, 11 Jan 2024 20:31:34 -0500</pubDate>
-      <guid>http://localhost:1313/sports/2024/ghelsey-go-scores-thousandth-point-ehs-girls-basketball/</guid>
+      <guid>https://theZFJ.github.io/sports/2024/ghelsey-go-scores-thousandth-point-ehs-girls-basketball/</guid>
       <description>EDISON, N.J., Jan. 11 (ZFJ) — Senior Ghelsey Go has become the seventh girl and ninth player overall to score 1,000 points in basketball at Edison High School.&#xA;She scored 29 points in the varsity game against JFK on Saturday, Jan. 6, achieving the milestone after four years in high school basketball.&#xA;“I can’t even lie, when I scored the last points, my mind just went blank. I was like, what happens next, what’s going to happen next, and we still had a game to play, so I don’t think I really celebrated right away,” Go said.</description>
     </item>
   </channel>

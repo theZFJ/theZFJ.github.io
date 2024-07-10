@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opinions on The Zombie Fridge Journal</title>
-    <link>http://localhost:1313/opinion/</link>
+    <link>https://theZFJ.github.io/opinion/</link>
     <description>Recent content in Opinions on The Zombie Fridge Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 Nov 2023 01:52:12 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://theZFJ.github.io/opinion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>REVIEW: Five Nights at Freddy’s: A Fun Flick for Fans</title>
-      <link>http://localhost:1313/opinion/2023/akira-rorschach-fnaf-review/</link>
+      <link>https://theZFJ.github.io/opinion/2023/akira-rorschach-fnaf-review/</link>
       <pubDate>Wed, 08 Nov 2023 01:52:12 -0500</pubDate>
-      <guid>http://localhost:1313/opinion/2023/akira-rorschach-fnaf-review/</guid>
+      <guid>https://theZFJ.github.io/opinion/2023/akira-rorschach-fnaf-review/</guid>
       <description>I don’t usually watch horror films (I get very scared), but the lunch table gang invited me to see the FNAF movie, so, of course, I made an exception this time. Also, I was intrigued after hearing mixed reviews from my classmates and decided I wanted to see it for myself.&#xA;I used to be terrified seeing the animatronics back in elementary school. That all went out the window after they released the Security Breach game a few years ago.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/opinion/2024/readme/</link>
+      <link>https://theZFJ.github.io/opinion/2024/readme/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/opinion/2024/readme/</guid>
+      <guid>https://theZFJ.github.io/opinion/2024/readme/</guid>
       <description>2024-opinion </description>
     </item>
   </channel>
