@@ -46,12 +46,14 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Deputy Editor-in-Chief** [Siddarth Perikala]({{< ref "/staff/siddarth-perikala" >}})
 
+**Reporter** [Jodie Hur]({{< ref "/staff/jodie-hur" >}})
+
+**Reporter** [Vincent Liao]({{< ref "/staff/vincent-liao" >}})
+
 **Reporter** [Leonard Lim]({{< ref "/staff/leonard-lim" >}})
 
 **Reporter** [Sanā Prajapati]({{< ref "/staff/sanā-prajapati" >}})
 
 **Reporter** [Zoe Wu]({{< ref "/staff/zoe-wu" >}})
-
-**Photographer** [Jodie Hur]({{< ref "/staff/jodie-hur" >}})
 
 **Illustrator** [Violet Bak]({{< ref "/staff/violet-bak" >}})
