@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Opinions on The Zombie Fridge Journal</title>
-    <link>http://localhost:1313/opinion/</link>
+    <link>https://theZFJ.github.io/opinion/</link>
     <description>Recent content in Opinions on The Zombie Fridge Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 08 Nov 2023 01:52:12 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/opinion/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Jul 2024 18:38:31 -0400</lastBuildDate>
+    <atom:link href="https://theZFJ.github.io/opinion/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>REVIEW: Five Nights at Freddy’s: A Fun Flick for Fans</title>
-      <link>http://localhost:1313/opinion/2023/akira-rorschach-fnaf-review/</link>
-      <pubDate>Wed, 08 Nov 2023 01:52:12 -0500</pubDate>
-      <guid>http://localhost:1313/opinion/2023/akira-rorschach-fnaf-review/</guid>
-      <description>I don’t usually watch horror films (I get very scared), but the lunch table gang invited me to see the FNAF movie, so, of course, I made an exception this time. Also, I was intrigued after hearing mixed reviews from my classmates and decided I wanted to see it for myself.&#xA;I used to be terrified seeing the animatronics back in elementary school. That all went out the window after they released the Security Breach game a few years ago.</description>
+      <title>REVIEW: Deadpool &amp; Wolverine delivers as delight</title>
+      <link>https://theZFJ.github.io/opinion/2024/deadpool-and-wolverine-movie-review/</link>
+      <pubDate>Sun, 28 Jul 2024 18:38:31 -0400</pubDate>
+      <guid>https://theZFJ.github.io/opinion/2024/deadpool-and-wolverine-movie-review/</guid>
+      <description>April of 2019. It was a beautiful day outside. Birds were singing, flowers were blooming, and on days like these kids like us would be playing a game of cricket. But not today. We were huddled in a circle, discussing theories for the upcoming Avengers movie. I was the main speaker, cooking up some mind blowing theories (I copied them from MatPat[1]). There was some sort of magic in those movies you couldn’t find anywhere else.</description>
     </item>
     <item>
-      <title></title>
-      <link>http://localhost:1313/opinion/2024/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/opinion/2024/readme/</guid>
-      <description>2024-opinion </description>
+      <title>REVIEW: Five Nights at Freddy’s: A Fun Flick for Fans</title>
+      <link>https://theZFJ.github.io/opinion/2023/akira-rorschach-fnaf-review/</link>
+      <pubDate>Wed, 08 Nov 2023 01:52:12 -0500</pubDate>
+      <guid>https://theZFJ.github.io/opinion/2023/akira-rorschach-fnaf-review/</guid>
+      <description>I don’t usually watch horror films (I get very scared), but the lunch table gang invited me to see the FNAF movie, so, of course, I made an exception this time. Also, I was intrigued after hearing mixed reviews from my classmates and decided I wanted to see it for myself.&#xA;I used to be terrified seeing the animatronics back in elementary school. That all went out the window after they released the Security Breach game a few years ago.</description>
     </item>
   </channel>
 </rss>
