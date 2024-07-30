@@ -4,7 +4,7 @@ job: Editor-in-chief
 photo: 
 ---
 
-Founder of the ZFJ and overseer of all of its operations. Primarily a government reporter. Oxford comma enthusiast.
+ZFJ founder. Oxford comma enthusiast. Extremely lazy—usually slacking off or sleeping. Specializes in the government beat. Computer science undergraduate at the University of Maryland—College Park. 
 
 - Email: alvin.wu@zfjnews.com
 - X: [@akirarorschach](https://x.com/AkiraRorschach)
