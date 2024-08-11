@@ -1,6 +1,6 @@
 ---
 title: Siddharth Perikala
-job: Deputy Editor-in-chief
+job: Reporter
 photo: 
 ---
 
