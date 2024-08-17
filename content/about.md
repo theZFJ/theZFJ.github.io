@@ -14,7 +14,7 @@ Editor-in-chief Wu decided to create it after his [COVID-19 article was censored
 
 The *ZFJ* operates independently of any school authorities and is neither affiliated with nor endorsed by any of them.
 
-Any opinions expressed are of their respective writers and not *The ZFJ*. 
+*Any opinions expressed are of their respective writers and not* The Zombie Fridge Journal. 
 
 ## Contact
 
