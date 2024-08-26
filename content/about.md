@@ -1,12 +1,12 @@
 ---
 title: "About"
-description: "The Zombie Fridge Journal is a student-run nonprofit and nonprofitable newspaper reporting on general affairs based in the New York City metropolitan area."
+description: "The Zombie Fridge Journal is a student-run nonprofit(able) news site reporting on various shenanigans."
 date: ""
 thumbnail: ""
 type: info
 ---
 
-*The Zombie Fridge Journal* is a student-run nonprofit and nonprofitable newspaper reporting on general affairs based in the New York City metropolitan area. 
+*The Zombie Fridge Journal* is a student-run nonprofit(able) news site reporting on various shenanigans. 
 
 Its personnel choose to run it for fun. It hasn't crashed and burned *yet*, so that's a good sign. 
 
