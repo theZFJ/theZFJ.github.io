@@ -58,4 +58,6 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Reporter** [Zoe Wu]({{< ref "/staff/zoe-wu" >}})
 
+**Reporter** [Claire Zhu]({{< ref "/staff/claire-zhu" >}})
+
 **Illustrator** [Violet Bak]({{< ref "/staff/violet-bak" >}})
