@@ -50,6 +50,8 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Reporter** [Leonard Lim]({{< ref "/staff/leonard-lim" >}})
 
+**Reporter** [Sumedh Natu]({{< ref "/staff/sumedh-natu" >}})
+
 **Reporter** [Siddharth Perikala]({{< ref "/staff/siddharth-perikala" >}}) Email: siddharth.perikala@zfjnews.com
 
 **Reporter** [Sanā Prajapati]({{< ref "/staff/sanā-prajapati" >}})
