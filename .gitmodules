@@ -121,3 +121,48 @@
 [submodule "content/Sports/2024"]
 	path = content/Sports/2024
 	url = https://github.com/theZFJ/2024-sports
+[submodule "content/Domestic-Affairs/2025"]
+	path = content/Domestic-Affairs/2025
+	url = https://github.com/theZFJ/2025-domestic-affairs
+[submodule "content/Parallel-Universe-Reports/2025"]
+	path = content/Parallel-Universe-Reports/2025
+	url = https://github.com/theZFJ/2025-parallel-universe-reports
+[submodule "content/Foreign-Affairs/Middle-East/2025"]
+	path = content/Foreign-Affairs/Middle-East/2025
+	url = https://github.com/theZFJ/2025-middle-east
+[submodule "content/Foreign-Affairs/Russia/2025"]
+	path = content/Foreign-Affairs/Russia/2025
+	url = https://github.com/theZFJ/2025-russia
+[submodule "content/Foreign-Affairs/Africa/2025"]
+	path = content/Foreign-Affairs/Africa/2025
+	url = https://github.com/theZFJ/2025-africa
+[submodule "content/Foreign-Affairs/Americas/2025"]
+	path = content/Foreign-Affairs/Americas/2025
+	url = https://github.com/theZFJ/2025-americas
+[submodule "static/2025"]
+	path = static/2025
+	url = https://github.com/theZFJ/2025-images
+[submodule "content/Foreign-Affairs/Asia-Pacific/2025"]
+	path = content/Foreign-Affairs/Asia-Pacific/2025
+	url = https://github.com/theZFJ/2025-asia-pacific
+[submodule "content/Foreign-Affairs/Europe/2025"]
+	path = content/Foreign-Affairs/Europe/2025
+	url = https://github.com/theZFJ/2025-europe
+[submodule "content/Sports/2025"]
+	path = content/Sports/2025
+	url = https://github.com/theZFJ/2025-sports
+[submodule "content/Science-and-Technology/2025"]
+	path = content/Science-and-Technology/2025
+	url = https://github.com/theZFJ/2025-science-and-technology
+[submodule "content/Opinion/2025"]
+	path = content/Opinion/2025
+	url = https://github.com/theZFJ/2025-opinion
+[submodule "content/Business/2025"]
+	path = content/Business/2025
+	url = https://github.com/theZFJ/2025-business
+[submodule "content/Arts-and-Entertainment/2025"]
+	path = content/Arts-and-Entertainment/2025
+	url = https://github.com/theZFJ/2025-arts-and-entertainment
+[submodule "content/Health-and-Medicine/2025"]
+	path = content/Health-and-Medicine/2025
+	url = https://github.com/theZFJ/2025-health-and-medicine
