@@ -44,6 +44,8 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Editor-in-Chief** [Alvin Wu]({{< ref "/staff/alvin-wu" >}}) Email: alvin.wu@zfjnews.com
 
+**Visuals Editor** [Siddharth Perikala]({{< ref "/staff/siddharth-perikala" >}}) Email: siddharth.perikala@zfjnews.com
+
 **Reporter** [Sushanth Balaraman]({{< ref "/staff/sushanth-balaraman" >}})
 
 **Reporter** [Jodie Hur]({{< ref "/staff/jodie-hur" >}})
@@ -53,8 +55,6 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 **Reporter** [Leonard Lim]({{< ref "/staff/leonard-lim" >}})
 
 **Reporter** [Sumedh Natu]({{< ref "/staff/sumedh-natu" >}})
-
-**Reporter** [Siddharth Perikala]({{< ref "/staff/siddharth-perikala" >}}) Email: siddharth.perikala@zfjnews.com
 
 **Reporter** [Sanā Prajapati]({{< ref "/staff/sanā-prajapati" >}})
 

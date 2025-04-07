@@ -1,6 +1,6 @@
 ---
 title: Siddharth Perikala
-job: Reporter
+job: Visuals Editor
 photo: 
 ---
 
