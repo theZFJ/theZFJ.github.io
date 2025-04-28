@@ -8,7 +8,7 @@ type: info
 
 *The Zombie Fridge Journal* is a student-run nonprofit(able) news site reporting on various shenanigans. 
 
-Its personnel choose to run it for fun. It hasn't crashed and burned *yet*, so that's a good sign. 
+We cover a wide range of topics, but the core of our work centers on government and legal coverage. We hope to promote civil discourse about both relevant issues and undercovered problems. 
 
 Editor-in-chief Wu decided to create it after his [COVID-19 article was censored in January 2022](https://www.zfjnews.com/jan2022censorshipincident/). [Its first article](https://www.zfjnews.com/science-and-technology/2023/66-chance-world-exceeds-warming-threshold-before-2027/) was published on May 18, 2023. 
 
@@ -24,7 +24,11 @@ Direct questions, comments, and corrections to Editor-in-Chief Alvin Wu at alvin
 
 The *ZFJ*'s name comes from a security joke. Some fridges these days can connect to the internet, and anything with an internet connection can theoretically be hacked (especially internet of things, or IoT, devices that don't receive frequent security updates). A device incorporated into a botnet by hackers is called a "zombie." Hence, zombie fridges. 
 
-## Our Motto
+## Our Motto (Democracy Dies in Daylight)
+
+A parody of *The Washington Post*'s motto, "Democracy Dies in Daylight." Which is true, yes. But democracy could also very well dissipate beneath all of our noses. Our motto serves as a warning to be wary of the frog boiling slowly. 
+
+## Our Motto (Old: Semper Serius)
 
 It's supposed to mean "always serious." But yeah, *of course it had to be in Latin.* Latin makes everything sound cooler. 
 

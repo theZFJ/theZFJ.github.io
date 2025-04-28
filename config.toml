@@ -8,7 +8,7 @@ googleAnalytics = "G-506M1GBBP6"
 
 [Params]
   title = "The Zombie Fridge Journal"
-  description = "Student-run nonprofit(able) news site reporting on various shenanigans" # Site description. Used in meta description
+  description = "Student-run nonprofit(able) news site reporting on various shenanigans." # Site description. Used in meta description
   copyright = "The Zombie Fridge Journal" # Footer copyright holder, otherwise will use site title
   readmore = true # Show "Read more" button in list if true
   authorbox = false # Show authorbox at bottom of pages if true
@@ -32,7 +32,7 @@ googleAnalytics = "G-506M1GBBP6"
 [Params.logo]
   image = "zfjLogo.png" # Logo image. Path relative to "static"
   title = "The Zombie Fridge Journal" # Logo title, otherwise will use site title
-  subtitle = "Semper serius." # Logo subtitle
+  subtitle = "Democracy Dies in Daylight." # Logo subtitle
 
 [Params.thumbnail]
   visibility = ["list", "post"] # Control thumbnail visibility
