@@ -6,7 +6,7 @@ thumbnail: ""
 type: info
 ---
 
-*The Zombie Fridge Journal* is a student-run nonprofit(able) news site reporting on various shenanigans. 
+*The Zombie Fridge Journal* is a student-run nonprofit(able) news site reporting on various shenanigans.
 
 We cover a wide range of topics, but the core of our work centers on government and legal coverage. We hope to promote civil discourse about both relevant issues and undercovered problems. 
 
