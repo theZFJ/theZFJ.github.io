@@ -166,3 +166,48 @@
 [submodule "content/Health-and-Medicine/2025"]
 	path = content/Health-and-Medicine/2025
 	url = https://github.com/theZFJ/2025-health-and-medicine
+[submodule "content/Parallel-Universe-Reports/2026"]
+	path = content/Parallel-Universe-Reports/2026
+	url = https://github.com/theZFJ/2026-parallel-universe-reports
+[submodule "content/Foreign-Affairs/Middle-East/2026"]
+	path = content/Foreign-Affairs/Middle-East/2026
+	url = https://github.com/theZFJ/2026-middle-east
+[submodule "content/Foreign-Affairs/Russia/2026"]
+	path = content/Foreign-Affairs/Russia/2026
+	url = https://github.com/theZFJ/2026-russia
+[submodule "content/Foreign-Affairs/Africa/2026"]
+	path = content/Foreign-Affairs/Africa/2026
+	url = https://github.com/theZFJ/2026-africa
+[submodule "content/Foreign-Affairs/Americas/2026"]
+	path = content/Foreign-Affairs/Americas/2026
+	url = https://github.com/theZFJ/2026-americas
+[submodule "content/Domestic-Affairs/2026"]
+	path = content/Domestic-Affairs/2026
+	url = https://github.com/theZFJ/2026-domestic-affairs
+[submodule "static/2026"]
+	path = static/2026
+	url = https://github.com/theZFJ/2026-images
+[submodule "content/Foreign-Affairs/Asia-Pacific/2026"]
+	path = content/Foreign-Affairs/Asia-Pacific/2026
+	url = https://github.com/theZFJ/2026-asia-pacific
+[submodule "content/Foreign-Affairs/Europe/2026"]
+	path = content/Foreign-Affairs/Europe/2026
+	url = https://github.com/theZFJ/2026-europe
+[submodule "content/Sports/2026"]
+	path = content/Sports/2026
+	url = https://github.com/theZFJ/2026-sports
+[submodule "content/Science-and-Technology/2026"]
+	path = content/Science-and-Technology/2026
+	url = https://github.com/theZFJ/2026-science-and-technology
+[submodule "content/Opinion/2026"]
+	path = content/Opinion/2026
+	url = https://github.com/theZFJ/2026-opinion
+[submodule "content/Business/2026"]
+	path = content/Business/2026
+	url = https://github.com/theZFJ/2026-business
+[submodule "content/Arts-and-Entertainment/2026"]
+	path = content/Arts-and-Entertainment/2026
+	url = https://github.com/theZFJ/2026-arts-and-entertainment
+[submodule "content/Health-and-Medicine/2026"]
+	path = content/Health-and-Medicine/2026
+	url = https://github.com/theZFJ/2026-health-and-medicine
