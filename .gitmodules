@@ -9,10 +9,11 @@
 [submodule "static/2024"]
 	path = static/2024
 	url = https://github.com/theZFJ/2024-images
-	
+
 [submodule "static/2025"]
 	path = static/2025
 	url = https://github.com/theZFJ/2025-images
+
 [submodule "static/2026"]
 	path = static/2026
 	url = https://github.com/theZFJ/2026-images
