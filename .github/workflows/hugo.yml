@@ -47,65 +47,23 @@ jobs:
         uses: webfactory/ssh-agent@v0.9.0
         with:
          ssh-private-key: |
-           ${{ secrets.DOMESTIC_AFFAIRS_2023 }}
-           ${{ secrets.AFRICA_2023 }}
-           ${{ secrets.AMERICAS_2023 }}
-           ${{ secrets.ASIA_PACIFIC_2023 }}
-           ${{ secrets.BUSINESS_2023 }}
-           ${{ secrets.ENTERTAINMENT_2023 }}
-           ${{ secrets.EUROPE_2023 }}
-           ${{ secrets.MEDICINE_2023 }}
-           ${{ secrets.MIDDLE_EAST_2023 }}
-           ${{ secrets.OPINION_2023 }}
-           ${{ secrets.PARALLEL_UNIVERSE_REPORTS_2023 }}
-           ${{ secrets.RUSSIA_2023 }}
-           ${{ secrets.SCIENCE_AND_TECHNOLOGY_2023 }}
-           ${{ secrets.SPORTS_2023 }}
+           ${{ secrets.DOMESTIC_AFFAIRS }}
+           ${{ secrets.AFRICA }}
+           ${{ secrets.AMERICAS }}
+           ${{ secrets.ASIA_PACIFIC }}
+           ${{ secrets.BUSINESS }}
+           ${{ secrets.ENTERTAINMENT }}
+           ${{ secrets.EUROPE }}
+           ${{ secrets.MEDICINE }}
+           ${{ secrets.MIDDLE_EAST }}
+           ${{ secrets.OPINION }}
+           ${{ secrets.PARALLEL_UNIVERSE_REPORTS }}
+           ${{ secrets.RUSSIA }}
+           ${{ secrets.SCIENCE_AND_TECHNOLOGY }}
+           ${{ secrets.SPORTS }}
            ${{ secrets.IMAGES_2023 }}
-           ${{ secrets.DOMESTIC_AFFAIRS_2024 }}
-           ${{ secrets.AFRICA_2024 }}
-           ${{ secrets.AMERICAS_2024 }}
-           ${{ secrets.ASIA_PACIFIC_2024 }}
-           ${{ secrets.BUSINESS_2024 }}
-           ${{ secrets.ARTS_AND_ENTERTAINMENT_2024 }}
-           ${{ secrets.EUROPE_2024 }}
-           ${{ secrets.HEALTH_AND_MEDICINE_2024 }}
-           ${{ secrets.MIDDLE_EAST_2024 }}
-           ${{ secrets.OPINION_2024 }}
-           ${{ secrets.PARALLEL_UNIVERSE_REPORTS_2024 }}
-           ${{ secrets.RUSSIA_2024 }}
-           ${{ secrets.SCIENCE_AND_TECHNOLOGY_2024 }}
-           ${{ secrets.SPORTS_2024 }}
            ${{ secrets.IMAGES_2024 }}
-           ${{ secrets.DOMESTIC_AFFAIRS_2025 }}
-           ${{ secrets.AFRICA_2025 }}
-           ${{ secrets.AMERICAS_2025 }}
-           ${{ secrets.ASIA_PACIFIC_2025 }}
-           ${{ secrets.BUSINESS_2025 }}
-           ${{ secrets.ARTS_AND_ENTERTAINMENT_2025 }}
-           ${{ secrets.EUROPE_2025 }}
-           ${{ secrets.HEALTH_AND_MEDICINE_2025 }}
-           ${{ secrets.MIDDLE_EAST_2025 }}
-           ${{ secrets.OPINION_2025 }}
-           ${{ secrets.PARALLEL_UNIVERSE_REPORTS_2025 }}
-           ${{ secrets.RUSSIA_2025 }}
-           ${{ secrets.SCIENCE_AND_TECHNOLOGY_2025 }}
-           ${{ secrets.SPORTS_2025 }}
            ${{ secrets.IMAGES_2025 }}
-           ${{ secrets.DOMESTIC_AFFAIRS_2026 }}
-           ${{ secrets.AFRICA_2026 }}
-           ${{ secrets.AMERICAS_2026 }}
-           ${{ secrets.ASIA_PACIFIC_2026 }}
-           ${{ secrets.BUSINESS_2026 }}
-           ${{ secrets.ARTS_AND_ENTERTAINMENT_2026 }}
-           ${{ secrets.EUROPE_2026 }}
-           ${{ secrets.HEALTH_AND_MEDICINE_2026 }}
-           ${{ secrets.MIDDLE_EAST_2026 }}
-           ${{ secrets.OPINION_2026 }}
-           ${{ secrets.PARALLEL_UNIVERSE_REPORTS_2026 }}
-           ${{ secrets.RUSSIA_2026 }}
-           ${{ secrets.SCIENCE_AND_TECHNOLOGY_2026 }}
-           ${{ secrets.SPORTS_2026 }}
            ${{ secrets.IMAGES_2026 }}
            
       - run: git submodule update --init --recursive 
