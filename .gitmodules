@@ -17,3 +17,59 @@
 [submodule "static/2026"]
 	path = static/2026
 	url = https://github.com/theZFJ/2026-images
+	
+[submodule "content/parallel-universe-reports"]
+	path = content/parallel-universe-reports
+	url = https://github.com/theZFJ/parallel-universe-reports
+
+[submodule "content/foreign-affairs/middle-east"]
+	path = content/foreign-affairs/middle-east
+	url = https://github.com/theZFJ/middle-east
+
+[submodule "content/foreign-affairs/russia"]
+	path = content/foreign-affairs/russia
+	url = https://github.com/theZFJ/russia
+
+[submodule "content/foreign-affairs/africa"]
+	path = content/foreign-affairs/africa
+	url = https://github.com/theZFJ/africa
+
+[submodule "content/foreign-affairs/americas"]
+	path = content/foreign-affairs/americas
+	url = https://github.com/theZFJ/americas
+
+[submodule "content/foreign-affairs/asia-pacific"]
+	path = content/foreign-affairs/asia-pacific
+	url = https://github.com/theZFJ/asia-pacific
+
+[submodule "content/foreign-affairs/europe"]
+	path = content/foreign-affairs/europe
+	url = https://github.com/theZFJ/europe
+
+[submodule "content/domestic-affairs"]
+	path = content/domestic-affairs
+	url = https://github.com/theZFJ/domestic-affairs
+
+[submodule "content/sports"]
+	path = content/sports
+	url = https://github.com/theZFJ/sports
+
+[submodule "content/science-and-technology"]
+	path = content/science-and-technology
+	url = https://github.com/theZFJ/science-and-technology
+
+[submodule "content/opinion"]
+	path = content/opinion
+	url = https://github.com/theZFJ/opinion
+
+[submodule "content/business"]
+	path = content/business
+	url = https://github.com/theZFJ/business
+
+[submodule "content/arts-and-entertainment"]
+	path = content/arts-and-entertainment
+	url = https://github.com/theZFJ/arts-and-entertainment
+	
+[submodule "content/health-and-medicine"]
+	path = content/health-and-medicine
+	url = https://github.com/theZFJ/health-and-medicine
