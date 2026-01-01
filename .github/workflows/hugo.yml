@@ -52,9 +52,9 @@ jobs:
            ${{ secrets.AMERICAS }}
            ${{ secrets.ASIA_PACIFIC }}
            ${{ secrets.BUSINESS }}
-           ${{ secrets.ENTERTAINMENT }}
+           ${{ secrets.ARTS_AND_ENTERTAINMENT }}
            ${{ secrets.EUROPE }}
-           ${{ secrets.MEDICINE }}
+           ${{ secrets.HEALTH_AND_MEDICINE }}
            ${{ secrets.MIDDLE_EAST }}
            ${{ secrets.OPINION }}
            ${{ secrets.PARALLEL_UNIVERSE_REPORTS }}
