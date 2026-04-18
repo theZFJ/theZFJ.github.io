@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Science-and-Technologies on The Zombie Fridge Journal</title>
-    <link>https://theZFJ.github.io/science-and-technology/</link>
+    <link>http://localhost:1313/science-and-technology/</link>
     <description>Recent content in Science-and-Technologies on The Zombie Fridge Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Aug 2024 11:37:37 -0400</lastBuildDate>
-    <atom:link href="https://theZFJ.github.io/science-and-technology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/science-and-technology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Late August heat wave hits</title>
-      <link>https://theZFJ.github.io/science-and-technology/2024/2024-08-28-heat-wave/</link>
+      <link>http://localhost:1313/science-and-technology/2024/2024-08-28-heat-wave/</link>
       <pubDate>Wed, 28 Aug 2024 11:37:37 -0400</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2024/2024-08-28-heat-wave/</guid>
+      <guid>http://localhost:1313/science-and-technology/2024/2024-08-28-heat-wave/</guid>
       <description>COLLEGE PARK, Md., Aug. 28 (ZFJ) — A heat wave has been descending on America on Wednesday, Aug. 28, placing over 77 million people under excessive heat warnings and heat advisories.&#xA;High temperatures are forecast to be 10-15 degrees above average for much of the Central to Southern Plains, east into the Mississippi Valley, Ohio Valley, Southeast, and Mid-Atlantic, wrote the National Weather Service’s Weather Prediction Center in a short range public discussion.</description>
     </item>
     <item>
       <title>June 2024 marks 12th month of global temperature reaching 1.5 C above pre-industrial</title>
-      <link>https://theZFJ.github.io/science-and-technology/2024/june-monthly-climate-bulletin-12th-consecutive-month-1.5-c-above/</link>
+      <link>http://localhost:1313/science-and-technology/2024/june-monthly-climate-bulletin-12th-consecutive-month-1.5-c-above/</link>
       <pubDate>Sat, 27 Jul 2024 12:43:30 -0400</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2024/june-monthly-climate-bulletin-12th-consecutive-month-1.5-c-above/</guid>
+      <guid>http://localhost:1313/science-and-technology/2024/june-monthly-climate-bulletin-12th-consecutive-month-1.5-c-above/</guid>
       <description>July 27 (ZFJ) — At 1.50 C (2.7 F) above the estimated June average for 1850-1900, June 2024 has become the 12th consecutive month to reach or break the 1.5 C threshold set by the Paris Agreement, according to the European Union’s Copernicus Climate Change Service (C3S).&#xA;With a surface air temperature of 16.66 C (61.99 F), June 2024 was warmer globally than any previous June in C3S’ ERA5 data record.</description>
     </item>
     <item>
       <title>Joint European Torus researchers announce nuclear fusion energy record</title>
-      <link>https://theZFJ.github.io/science-and-technology/2024/jet-tokamak-nuclear-fusion-record-69-mj/</link>
+      <link>http://localhost:1313/science-and-technology/2024/jet-tokamak-nuclear-fusion-record-69-mj/</link>
       <pubDate>Thu, 08 Feb 2024 23:46:16 -0500</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2024/jet-tokamak-nuclear-fusion-record-69-mj/</guid>
+      <guid>http://localhost:1313/science-and-technology/2024/jet-tokamak-nuclear-fusion-record-69-mj/</guid>
       <description>Feb. 8 (ZFJ) — Joint European Torus (JET) researchers announced on Thursday, Feb. 8, that their tokamak set a new world record of 69.26 megajoules released in controlled nuclear fusion energy on Oct. 3, 2023, at 19:14 GMT.&#xA;The record, equivalent to the energy released from burning two kilograms of coal, was set during a single pulse of JET over six seconds with only 0.21 milligrams of fuel. JET’s previous record from 2022 was 59 MJ.</description>
     </item>
     <item>
       <title>2023 confirmed hottest year on record, global temperature close to 1.5 C limit</title>
-      <link>https://theZFJ.github.io/science-and-technology/2024/c3s-2023-hottest-year-on-record-1.5-celsius-limit/</link>
+      <link>http://localhost:1313/science-and-technology/2024/c3s-2023-hottest-year-on-record-1.5-celsius-limit/</link>
       <pubDate>Tue, 09 Jan 2024 16:49:36 -0500</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2024/c3s-2023-hottest-year-on-record-1.5-celsius-limit/</guid>
+      <guid>http://localhost:1313/science-and-technology/2024/c3s-2023-hottest-year-on-record-1.5-celsius-limit/</guid>
       <description>Jan. 9 (ZFJ) — Scientists have confirmed 2023, which saw multiple record-breaking conditions, as the hottest year on record.&#xA;The year was characterized by many extreme weather events occurring globally, including heat waves, floods, droughts, and wildfires.&#xA;The Copernicus Climate Change Service (C3S), part of the European Union’s space program, reported the data in its Global Climate Highlights 2023 report, which is based mainly on its ERA5 reanalysis dataset, which goes back to 1940.</description>
     </item>
     <item>
       <title>Global temperature briefly exceeds 2 C above pre-industrial average</title>
-      <link>https://theZFJ.github.io/science-and-technology/2023/first-time-global-temperature-anomaly-exceeds-two-celsius/</link>
+      <link>http://localhost:1313/science-and-technology/2023/first-time-global-temperature-anomaly-exceeds-two-celsius/</link>
       <pubDate>Sat, 02 Dec 2023 14:01:09 -0500</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2023/first-time-global-temperature-anomaly-exceeds-two-celsius/</guid>
+      <guid>http://localhost:1313/science-and-technology/2023/first-time-global-temperature-anomaly-exceeds-two-celsius/</guid>
       <description>Dec. 2 (ZFJ) — Earth’s temperature exceeded 2 degrees Celsius above pre-industrial levels on Nov. 17-18, according to the European Union’s Copernicus Climate Change Service (C3S).&#xA;Nov. 17 marked the first day in the ERA5 dataset, the European Centre for Medium Range Weather Forecasts’ climate record, that global temperatures exceeded 2 C above the average temperature before the extensive use of fossil fuels.&#xA;Nov. 17 exceeded the 1850-1900 average by 2.</description>
     </item>
     <item>
       <title>July 2023 confirmed hottest month on record globally</title>
-      <link>https://theZFJ.github.io/science-and-technology/2023/july-2023-breaks-heat-records/</link>
+      <link>http://localhost:1313/science-and-technology/2023/july-2023-breaks-heat-records/</link>
       <pubDate>Mon, 14 Aug 2023 12:18:31 -0400</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2023/july-2023-breaks-heat-records/</guid>
+      <guid>http://localhost:1313/science-and-technology/2023/july-2023-breaks-heat-records/</guid>
       <description>Aug. 14 (ZFJ) — July 2023 was the hottest month on record globally, confirmed the Copernicus Climate Change Service on Tuesday, Aug. 8.&#xA;The monthly average temperature worldwide was 16.95 degrees Celsius (62.51 degrees Fahrenheit), exceeding July 2019’s previous record of 16.63 C (61.93 F) and meeting the Paris Agreement threshold of 1.5 C (2.7 F) warming above preindustrial levels.&#xA;The 29 days from July 3-31 were the hottest days on record, exceeding the previous daily global mean surface air temperature record of 16.</description>
     </item>
     <item>
       <title>UN Security Council holds first meeting on AI</title>
-      <link>https://theZFJ.github.io/science-and-technology/2023/un-security-council-first-meeting-ai/</link>
+      <link>http://localhost:1313/science-and-technology/2023/un-security-council-first-meeting-ai/</link>
       <pubDate>Wed, 26 Jul 2023 13:20:04 -0400</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2023/un-security-council-first-meeting-ai/</guid>
+      <guid>http://localhost:1313/science-and-technology/2023/un-security-council-first-meeting-ai/</guid>
       <description>July 25 (ZFJ) — The rapid increase in malicious uses of artificial intelligence has sparked international concern. On July 18, the United Nations Security Council gathered to recognize what AI could bring to the table and what it has already taken away.&#xA;U.N. Secretary-General António Guterres opened the meeting by observing the influence ChatGPT has garnered. ChatGPT, an AI that emulates human interaction, has taken over the internet by storm, infiltrating college applications, political propaganda, jobs, and other areas of daily life.</description>
     </item>
     <item>
       <title>US approves nation’s first lab-grown meat, cell-cultivated chicken, for sale</title>
-      <link>https://theZFJ.github.io/science-and-technology/2023/america-approves-first-lab-grown-meat-for-sale/</link>
+      <link>http://localhost:1313/science-and-technology/2023/america-approves-first-lab-grown-meat-for-sale/</link>
       <pubDate>Sun, 25 Jun 2023 23:01:06 -0400</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2023/america-approves-first-lab-grown-meat-for-sale/</guid>
+      <guid>http://localhost:1313/science-and-technology/2023/america-approves-first-lab-grown-meat-for-sale/</guid>
       <description>June 24 (ZFJ) — Lab-grown meat companies UPSIDE Foods and GOOD Meat announced on Wednesday that they received the final Agriculture Department approval required to sell their chicken in the United States.&#xA;The Department of Agriculture Food Safety and Inspection Service issued grants of inspection for the companies’ manufacturing facilities: UPSIDE’s Engineering, Production, and Innovation Center and GOOD Meat’s demonstration plant in Alameda, California. GOOD Meat’s contract manufacturing partner JOINN Biologics also received a GOI.</description>
     </item>
     <item>
       <title>66% chance world exceeds warming threshold before 2027, WMO says</title>
-      <link>https://theZFJ.github.io/science-and-technology/2023/66-chance-world-exceeds-warming-threshold-before-2027/</link>
+      <link>http://localhost:1313/science-and-technology/2023/66-chance-world-exceeds-warming-threshold-before-2027/</link>
       <pubDate>Thu, 18 May 2023 21:32:50 -0400</pubDate>
-      <guid>https://theZFJ.github.io/science-and-technology/2023/66-chance-world-exceeds-warming-threshold-before-2027/</guid>
+      <guid>http://localhost:1313/science-and-technology/2023/66-chance-world-exceeds-warming-threshold-before-2027/</guid>
       <description>May 18 (ZFJ) — There is a 66% chance that the annual global surface temperature will exceed 1.5 degrees Celsius (2.7 degrees Fahrenheit) above pre-industrial levels before 2027, said the World Meteorological Organization on Wednesday.&#xA;The UN weather agency also predicted that there is a 98% chance that one of the next five years will be the warmest on record.&#xA;“These new highs will be fuelled almost completely by the rise of heat-trapping greenhouse gases in the atmosphere, but the anticipated development of the naturally-occurring El Niño event will also release heat from the tropical Pacific,” said Dr.</description>
     </item>
   </channel>
