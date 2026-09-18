@@ -1,5 +1,5 @@
 ---
 title: Zoe Wu
-job: Reporter
+job: Domestic Affairs Editor
 photo: 
 ---
