@@ -1,5 +1,5 @@
 ---
 title: Zoe Wu
-job: Domestic Affairs Editor
+job: Deputy Editor-in-Chief
 photo: 
 ---

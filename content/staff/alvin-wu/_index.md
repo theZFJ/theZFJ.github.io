@@ -1,6 +1,6 @@
 ---
 title: Alvin Wu
-job: Editor-in-chief
+job: Editor-in-Chief
 photo: 
 ---
 

@@ -48,4 +48,4 @@ The *ZFJ* Parallel Universe Bureau is a major advancement for humanity based on 
 
 **Editor-in-Chief** [Alvin Wu]({{< ref "/staff/alvin-wu" >}}) Email: alvin.wu@zfjnews.com
 
-**Domestic Affairs Editor** [Zoe Wu]({{< ref "/staff/zoe-wu" >}})
+**Deputy Editor-in-Chief** [Zoe Wu]({{< ref "/staff/zoe-wu" >}})
